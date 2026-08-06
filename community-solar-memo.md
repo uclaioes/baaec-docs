@@ -214,7 +214,7 @@ These are empirical questions, and they deserve empirical answers. The experienc
 
 [^2]:  *Ibid.*
 
-[^3]:  CCSA/NM Legislature: [https://www.nmlegis.gov/(X(1)S(4qv1sisxq1qaflcpi0sbk52u))/handouts/WNR%20102824%20Item%209%20CCSA%20Community%20Solar.pdf](https://www.nmlegis.gov/\(X\(1\)S\(4qv1sisxq1qaflcpi0sbk52u\)\)/handouts/WNR%20102824%20Item%209%20CCSA%20Community%20Solar.pdf)
+[^3]:  CCSA/NM Legislature: [https://www.nmlegis.gov/(X(1)S(4qv1sisxq1qaflcpi0sbk52u))/handouts/WNR%20102824%20Item%209%20CCSA%20Community%20Solar.pdf](https://www.nmlegis.gov/(X(1)S(4qv1sisxq1qaflcpi0sbk52u))/handouts/WNR%20102824%20Item%209%20CCSA%20Community%20Solar.pdf)
 
 [^4]:  Stoel Rives, Law of Solar: [https://www.stoel.com/insights/reports/the-law-of-solar/community-solar](https://www.stoel.com/insights/reports/the-law-of-solar/community-solar)
 
