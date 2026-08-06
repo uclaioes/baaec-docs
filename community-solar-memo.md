@@ -275,7 +275,7 @@ These are empirical questions, and they deserve empirical answers. The experienc
 
 [^34]:  Utility Dive, AB 1813: [https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/](https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/)
 
-[^35]:  Utility Dive, AB 1813: [https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/](https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/)\]
+[^35]:  Utility Dive, AB 1813: [https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/](https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/)
 
 [^36]:  Solar Power World, June 2026: [https://www.solarpowerworldonline.com/2026/06/cpuc-passes-through-failed-community-solar-program-industry-advocates-say/](https://www.solarpowerworldonline.com/2026/06/cpuc-passes-through-failed-community-solar-program-industry-advocates-say/)
 
