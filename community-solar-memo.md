@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 'Playing Catch Up: Valuation, Resource Classification, and the Future of Community Solar in California'
+short_title: Community Solar Memo
 ---
 
 ## Executive Summary
