@@ -6,7 +6,7 @@ short_title: Community Solar Memo
 
 **Authors:**
 
-Robert Cudd><br>
+Robert Cudd<br>
 Sid Shah
 
 ## Executive Summary
