@@ -160,53 +160,53 @@ These are empirical questions, and they deserve empirical answers. The experienc
 ## Key Sources
 
 **Net Metering and Compensation Policy**
-·       *Tom Stanton, Review of State Net Energy Metering and Successor Rate Designs, NRRI Report No. 19-01 (NARUC/NRRI, 2019): https://pubs.naruc.org/pub/A107102C-92E5-776D-4114-9148841DE66B*
+* *Tom Stanton, Review of State Net Energy Metering and Successor Rate Designs, NRRI Report No. 19-01 (NARUC/NRRI, 2019): https://pubs.naruc.org/pub/A107102C-92E5-776D-4114-9148841DE66B*
 
 **Development Process and Interconnection**
-·       *New Mexico CCSA Community Solar presentation: https://www.nmlegis.gov/(X(1)S(4qv1sisxq1qaflcpi0sbk52u))/handouts/WNR%20102824%20Item%209%20CCSA%20Community%20Solar.pdf*
-·       *Stoel Rives, Law of Solar, Community Solar Programs: https://www.stoel.com/insights/reports/the-law-of-solar/community-solar*
-·       *Ballard Spahr, Community Solar alert: https://www.ballardspahr.com/insights/alerts-and-articles/2024/04/community-solar-major-moves-in-pennsylvania-maryland-and-california*
+* *New Mexico CCSA Community Solar presentation: https://www.nmlegis.gov/(X(1)S(4qv1sisxq1qaflcpi0sbk52u))/handouts/WNR%20102824%20Item%209%20CCSA%20Community%20Solar.pdf*
+* *Stoel Rives, Law of Solar, Community Solar Programs: https://www.stoel.com/insights/reports/the-law-of-solar/community-solar*
+* *Ballard Spahr, Community Solar alert: https://www.ballardspahr.com/insights/alerts-and-articles/2024/04/community-solar-major-moves-in-pennsylvania-maryland-and-california*
 
 **Capital Stack and Tax Equity**
-·       *ACORE, The Risk Profile of Renewable Energy Tax Equity Investments: https://acore.org/resources/the-risk-profile-of-renewable-energy-tax-equity-investments/*
-·       *Ballast Rock, Community Solar Lending: Navigating the ITC Sunset: https://www.ballastrock.com/insights/solar-lending-itc-sunset-opportunities*
-·       *Stoel Rives, Law of Solar, Project Finance: https://www.stoel.com/insights/reports/the-law-of-solar/project-finance-for-solar-projects*
-·       *Renewables Valuation Institute, Tax Equity in U.S. Renewables: https://courses.renewablesvaluationinstitute.com/pages/academy/tax-equity-in-us-renewables-itc-ptc-structures*
+* *ACORE, The Risk Profile of Renewable Energy Tax Equity Investments: https://acore.org/resources/the-risk-profile-of-renewable-energy-tax-equity-investments/*
+* *Ballast Rock, Community Solar Lending: Navigating the ITC Sunset: https://www.ballastrock.com/insights/solar-lending-itc-sunset-opportunities*
+* *Stoel Rives, Law of Solar, Project Finance: https://www.stoel.com/insights/reports/the-law-of-solar/project-finance-for-solar-projects*
+* *Renewables Valuation Institute, Tax Equity in U.S. Renewables: https://courses.renewablesvaluationinstitute.com/pages/academy/tax-equity-in-us-renewables-itc-ptc-structures*
 
 **Illinois**
-·       *ILSR, Illinois Community Solar Program: https://ilsr.org/article/energy-democracy/illinois-community-solar-program/*
-·       *E3/Illinois Commerce Commission, The Value of, and Compensation for, Distributed Energy Resources in Illinois (January 2025): https://www.ethree.com/wp-content/uploads/2025/01/ICC-VDER-Report-FINAL-2025-1-17.pdf*
-·       *Illinois Commerce Commission, CEJA DER Investigation: https://icc.illinois.gov/programs/climate-and-equitable-jobs-act-implementation-investigation*
+* *ILSR, Illinois Community Solar Program: https://ilsr.org/article/energy-democracy/illinois-community-solar-program/*
+* *E3/Illinois Commerce Commission, The Value of, and Compensation for, Distributed Energy Resources in Illinois (January 2025): https://www.ethree.com/wp-content/uploads/2025/01/ICC-VDER-Report-FINAL-2025-1-17.pdf*
+* *Illinois Commerce Commission, CEJA DER Investigation: https://icc.illinois.gov/programs/climate-and-equitable-jobs-act-implementation-investigation*
 
 **New York**
-·       *NYSERDA, Value of Distributed Energy Resources: https://www.nyserda.ny.gov/All-Programs/NY-Sun/Contractors/Value-of-Distributed-Energy-Resources*
-·       *NYSERDA, Value Stack Resources: https://www.nyserda.ny.gov/All-Programs/NY-Sun/Contractors/Value-of-Distributed-Energy-Resources/Value-Stack-Resources*
-·       *NYSERDA, Value Stack Fact Sheet: https://www.nyserda.ny.gov/-/media/Project/Nyserda/Files/Programs/NY-Sun/value-stack-overview.pdf*
-·       *Ascend Analytics, VDER overview: https://www.ascendanalytics.com/blog/vder-new-yorks-valuable-distributed-energy-generation-opportunity*
-·       *Joint Utilities of NY, VDER: https://jointutilitiesofny.org/distributed-generation/VDER*
+* *NYSERDA, Value of Distributed Energy Resources: https://www.nyserda.ny.gov/All-Programs/NY-Sun/Contractors/Value-of-Distributed-Energy-Resources*
+* *NYSERDA, Value Stack Resources: https://www.nyserda.ny.gov/All-Programs/NY-Sun/Contractors/Value-of-Distributed-Energy-Resources/Value-Stack-Resources*
+* *NYSERDA, Value Stack Fact Sheet: https://www.nyserda.ny.gov/-/media/Project/Nyserda/Files/Programs/NY-Sun/value-stack-overview.pdf*
+* *Ascend Analytics, VDER overview: https://www.ascendanalytics.com/blog/vder-new-yorks-valuable-distributed-energy-generation-opportunity*
+* *Joint Utilities of NY, VDER: https://jointutilitiesofny.org/distributed-generation/VDER*
 
 **Maryland**
-·       *Maryland PSC, Community Solar Program: https://psc.maryland.gov/regulated-utilities/electricity/renewable-energy/community-solar-program/*
-·       *ILSR, Maryland's Community Solar Program: https://ilsr.org/article/energy-democracy/marylands-community-solar-program/*
-·       *Solstice, Maryland Policy Tracker: https://site.solstice.us/policy/maryland*
-·       *Maryland PSC, CSEGS Pilot Report: https://psc.maryland.gov/wp-content/uploads/Report-on-the-Community-Solar-Energy-Generating-Systems-CSEGS.pdf*
+* *Maryland PSC, Community Solar Program: https://psc.maryland.gov/regulated-utilities/electricity/renewable-energy/community-solar-program/*
+* *ILSR, Maryland's Community Solar Program: https://ilsr.org/article/energy-democracy/marylands-community-solar-program/*
+* *Solstice, Maryland Policy Tracker: https://site.solstice.us/policy/maryland*
+* *Maryland PSC, CSEGS Pilot Report: https://psc.maryland.gov/wp-content/uploads/Report-on-the-Community-Solar-Energy-Generating-Systems-CSEGS.pdf*
 
 **California**
-·       *CPUC, Community Solar in California: https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/community-solar-in-california*
-·       *CPUC, CRE Program Decision (D.24-05-065): https://www.cpuc.ca.gov/news-and-updates/all-news/cpuc-expands-existing-community-solar*
-·       *CCSA/Renewable Energy World: https://www.renewableenergyworld.com/solar/community-solar/two-steps-forward-one-step-back-california-cant-seem-to-figure-out-community-solar/*
-·       *SEIA statement on CPUC proposed decision: https://seia.org/news/statement-on-cpuc-community-solar-decision/*
-·       *pv magazine, June 2026: https://www.pv-magazine.com/2026/06/15/california-doubles-down-on-unworkable-community-solar-program/*
-·       *Utility Dive, AB 1813 and CPUC final decision: https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/*
-·       *Utility Dive, California omission of community solar: https://www.utilitydive.com/news/californias-omission-of-community-solar-from-distributed-energy-policies-i/618451/*
-·       *Solar Power World, June 2026: https://www.solarpowerworldonline.com/2026/06/cpuc-passes-through-failed-community-solar-program-industry-advocates-say/*
-·       *Aurora Energy Research/CCSA, The Value of Community Solar and Storage in CAISO (2025): https://communitysolaraccess.org/wp-content/uploads/the-value-of-community-solar-and-storage-in-caiso.pdf*
-·       *CCSA, Aurora study press release: https://communitysolaraccess.org/news/new-study-community-solar-and-storage-would-save-california-ratepayers-6-5-billion-and-deliver-lower-bills-for-everyone*
-·       *CPUC, 2024 ACC Documentation: https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/demand-side-management/acc-models-latest-version/updated-2024-acc-documentation-v1b.pdf*
-·       *California Alliance for Community Energy, ACC Analysis: https://cacommunityenergy.org/the-avoided-cost-calculator-and-why-it-matters/*
-·       *Canary Media, The Avoided Cost Calculator: https://www.canarymedia.com/articles/policy-regulation/the-avoided-cost-calculator-the-controversial-metric-at-the-center-of-californias-solar-net-metering-fight*
-·       *CPUC, Scaling Up and Crossing Bounds (Energy Storage Scaling Study, 2024): https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/energy-storage/2024-05-01\_lumen\_scaling-up-and-crossing-bounds-reportfinal.pdf*
-·       *Clean Coalition, ACC Comments and Regulatory Filings: https://clean-coalition.org/regulatory-filings/*
+* *CPUC, Community Solar in California: https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/community-solar-in-california*
+* *CPUC, CRE Program Decision (D.24-05-065): https://www.cpuc.ca.gov/news-and-updates/all-news/cpuc-expands-existing-community-solar*
+* *CCSA/Renewable Energy World: https://www.renewableenergyworld.com/solar/community-solar/two-steps-forward-one-step-back-california-cant-seem-to-figure-out-community-solar/*
+* *SEIA statement on CPUC proposed decision: https://seia.org/news/statement-on-cpuc-community-solar-decision/*
+* *pv magazine, June 2026: https://www.pv-magazine.com/2026/06/15/california-doubles-down-on-unworkable-community-solar-program/*
+* *Utility Dive, AB 1813 and CPUC final decision: https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/*
+* *Utility Dive, California omission of community solar: https://www.utilitydive.com/news/californias-omission-of-community-solar-from-distributed-energy-policies-i/618451/*
+* *Solar Power World, June 2026: https://www.solarpowerworldonline.com/2026/06/cpuc-passes-through-failed-community-solar-program-industry-advocates-say/*
+* *Aurora Energy Research/CCSA, The Value of Community Solar and Storage in CAISO (2025): https://communitysolaraccess.org/wp-content/uploads/the-value-of-community-solar-and-storage-in-caiso.pdf*
+* *CCSA, Aurora study press release: https://communitysolaraccess.org/news/new-study-community-solar-and-storage-would-save-california-ratepayers-6-5-billion-and-deliver-lower-bills-for-everyone*
+* *CPUC, 2024 ACC Documentation: https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/demand-side-management/acc-models-latest-version/updated-2024-acc-documentation-v1b.pdf*
+* *California Alliance for Community Energy, ACC Analysis: https://cacommunityenergy.org/the-avoided-cost-calculator-and-why-it-matters/*
+* *Canary Media, The Avoided Cost Calculator: https://www.canarymedia.com/articles/policy-regulation/the-avoided-cost-calculator-the-controversial-metric-at-the-center-of-californias-solar-net-metering-fight*
+* *CPUC, Scaling Up and Crossing Bounds (Energy Storage Scaling Study, 2024): https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/energy-storage/2024-05-01\_lumen\_scaling-up-and-crossing-bounds-reportfinal.pdf*
+* *Clean Coalition, ACC Comments and Regulatory Filings: https://clean-coalition.org/regulatory-filings/*
 
 [^1]:  Stanton, NRRI 19-01: [https://pubs.naruc.org/pub/A107102C-92E5-776D-4114-9148841DE66B](https://pubs.naruc.org/pub/A107102C-92E5-776D-4114-9148841DE66B)
 
