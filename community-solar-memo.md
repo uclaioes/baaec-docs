@@ -9,7 +9,7 @@ Community solar and storage is an approach to building renewable energy infrastr
 
 A vitally important aspect of efforts to develop more distributed solar generation and storage capacity is the way that utilities, community choice aggregators (CCAs) and public regulatory commissions value the performance of community solar and storage systems. The valuation of the energy and non-energy benefits of grid-connected generators is a politically sensitive topic because decisions about how generation and storage assets can operate in conjunction with existing infrastructure have short and long-term consequences for ratepayers, the cleantech industry, utilities, and other stakeholders as well. As we discuss in this memorandum, the careful valuation of distributed generation and storage resources can align the interests of utilities, ratepayers, and developers. However, achieving this alignment and growing distributed generation capacity requires that regulators recognize and measure the ability of these resources to provide more than just electricity: as we describe, regulators in states other than California have done so successfully, and California could follow suit if it were to change its current valuation framework. The core issues we identify with California’s current approach to community solar and storage are the inconsistent manner in which it applies the energy resource valuation tools it has developed, and as well as the refusal of regulators to perform the measurements necessary to make an empirical determination as to the capacity, locational, and other forms value that distributed generation and storage resources can provide.
 
-Based on our analysis, we believe AB 1813 would help address the valuation issues that have slowed the development of distributed generation and storage in California, and help break the  impasse between regulators, some load-serving entities, and the broad coalition of groups supportive of community solar.
+Based on our analysis, we believe AB 1813 would help address the valuation issues that have slowed the development of distributed generation and storage in California, and help break the impasse between regulators, some load-serving entities, and the broad coalition of groups supportive of community solar.
 
 ## Introduction: What is Community Solar and Storage Worth?
 
@@ -210,41 +210,41 @@ These are empirical questions, and they deserve empirical answers. The experienc
 
 ## Footnotes
 
-[^1]:  Stanton, NRRI 19-01: [https://pubs.naruc.org/pub/A107102C-92E5-776D-4114-9148841DE66B](https://pubs.naruc.org/pub/A107102C-92E5-776D-4114-9148841DE66B)
+[^1]: Stanton, NRRI 19-01: [https://pubs.naruc.org/pub/A107102C-92E5-776D-4114-9148841DE66B](https://pubs.naruc.org/pub/A107102C-92E5-776D-4114-9148841DE66B)
 
-[^2]:  *Ibid.*
+[^2]: *Ibid.*
 
-[^3]:  CCSA/NM Legislature: [https://www.nmlegis.gov/(X(1)S(4qv1sisxq1qaflcpi0sbk52u))/handouts/WNR%20102824%20Item%209%20CCSA%20Community%20Solar.pdf](https://www.nmlegis.gov/(X(1)S(4qv1sisxq1qaflcpi0sbk52u))/handouts/WNR%20102824%20Item%209%20CCSA%20Community%20Solar.pdf)
+[^3]: CCSA/NM Legislature: [https://www.nmlegis.gov/(X(1)S(4qv1sisxq1qaflcpi0sbk52u))/handouts/WNR%20102824%20Item%209%20CCSA%20Community%20Solar.pdf](https://www.nmlegis.gov/(X(1)S(4qv1sisxq1qaflcpi0sbk52u))/handouts/WNR%20102824%20Item%209%20CCSA%20Community%20Solar.pdf)
 
-[^4]:  Stoel Rives, Law of Solar: [https://www.stoel.com/insights/reports/the-law-of-solar/community-solar](https://www.stoel.com/insights/reports/the-law-of-solar/community-solar)
+[^4]: Stoel Rives, Law of Solar: [https://www.stoel.com/insights/reports/the-law-of-solar/community-solar](https://www.stoel.com/insights/reports/the-law-of-solar/community-solar)
 
-[^5]:  Ballard Spahr: [https://www.ballardspahr.com/insights/alerts-and-articles/2024/04/community-solar-major-moves-in-pennsylvania-maryland-and-california](https://www.ballardspahr.com/insights/alerts-and-articles/2024/04/community-solar-major-moves-in-pennsylvania-maryland-and-california)
+[^5]: Ballard Spahr: [https://www.ballardspahr.com/insights/alerts-and-articles/2024/04/community-solar-major-moves-in-pennsylvania-maryland-and-california](https://www.ballardspahr.com/insights/alerts-and-articles/2024/04/community-solar-major-moves-in-pennsylvania-maryland-and-california)
 
-[^6]:  ACORE: [https://acore.org/resources/the-risk-profile-of-renewable-energy-tax-equity-investments/](https://acore.org/resources/the-risk-profile-of-renewable-energy-tax-equity-investments/)
+[^6]: ACORE: [https://acore.org/resources/the-risk-profile-of-renewable-energy-tax-equity-investments/](https://acore.org/resources/the-risk-profile-of-renewable-energy-tax-equity-investments/)
 
-[^7]:  Stoel Rives, Project Finance: [https://www.stoel.com/insights/reports/the-law-of-solar/project-finance-for-solar-projects](https://www.stoel.com/insights/reports/the-law-of-solar/project-finance-for-solar-projects)
+[^7]: Stoel Rives, Project Finance: [https://www.stoel.com/insights/reports/the-law-of-solar/project-finance-for-solar-projects](https://www.stoel.com/insights/reports/the-law-of-solar/project-finance-for-solar-projects)
 
-[^8]:  Ballast Rock: [https://www.ballastrock.com/insights/solar-lending-itc-sunset-opportunities](https://www.ballastrock.com/insights/solar-lending-itc-sunset-opportunities)
+[^8]: Ballast Rock: [https://www.ballastrock.com/insights/solar-lending-itc-sunset-opportunities](https://www.ballastrock.com/insights/solar-lending-itc-sunset-opportunities)
 
-[^9]:  ACORE: [https://acore.org/resources/the-risk-profile-of-renewable-energy-tax-equity-investments/](https://acore.org/resources/the-risk-profile-of-renewable-energy-tax-equity-investments/)
+[^9]: ACORE: [https://acore.org/resources/the-risk-profile-of-renewable-energy-tax-equity-investments/](https://acore.org/resources/the-risk-profile-of-renewable-energy-tax-equity-investments/)
 
-[^10]:  Renewables Valuation Institute: [https://courses.renewablesvaluationinstitute.com/pages/academy/tax-equity-in-us-renewables-itc-ptc-structures](https://courses.renewablesvaluationinstitute.com/pages/academy/tax-equity-in-us-renewables-itc-ptc-structures)
+[^10]: Renewables Valuation Institute: [https://courses.renewablesvaluationinstitute.com/pages/academy/tax-equity-in-us-renewables-itc-ptc-structures](https://courses.renewablesvaluationinstitute.com/pages/academy/tax-equity-in-us-renewables-itc-ptc-structures)
 
-[^11]:  Ballast Rock: [https://www.ballastrock.com/insights/solar-lending-itc-sunset-opportunities](https://www.ballastrock.com/insights/solar-lending-itc-sunset-opportunities)
+[^11]: Ballast Rock: [https://www.ballastrock.com/insights/solar-lending-itc-sunset-opportunities](https://www.ballastrock.com/insights/solar-lending-itc-sunset-opportunities)
 
-[^12]:  ILSR, Illinois Community Solar: [https://ilsr.org/article/energy-democracy/illinois-community-solar-program/](https://ilsr.org/article/energy-democracy/illinois-community-solar-program/)
+[^12]: ILSR, Illinois Community Solar: [https://ilsr.org/article/energy-democracy/illinois-community-solar-program/](https://ilsr.org/article/energy-democracy/illinois-community-solar-program/)
 
-[^13]:  *Ibid.*
+[^13]: *Ibid.*
 
-[^14]:  ICC, CEJA DER Investigation: [https://icc.illinois.gov/programs/climate-and-equitable-jobs-act-implementation-investigation](https://icc.illinois.gov/programs/climate-and-equitable-jobs-act-implementation-investigation)
+[^14]: ICC, CEJA DER Investigation: [https://icc.illinois.gov/programs/climate-and-equitable-jobs-act-implementation-investigation](https://icc.illinois.gov/programs/climate-and-equitable-jobs-act-implementation-investigation)
 
-[^15]:  E3/ICC, Value of DERs in Illinois: [https://www.ethree.com/wp-content/uploads/2025/01/ICC-VDER-Report-FINAL-2025-1-17.pdf](https://www.ethree.com/wp-content/uploads/2025/01/ICC-VDER-Report-FINAL-2025-1-17.pdf)
+[^15]: E3/ICC, Value of DERs in Illinois: [https://www.ethree.com/wp-content/uploads/2025/01/ICC-VDER-Report-FINAL-2025-1-17.pdf](https://www.ethree.com/wp-content/uploads/2025/01/ICC-VDER-Report-FINAL-2025-1-17.pdf)
 
-[^16]:  ILSR, Illinois Community Solar: [https://ilsr.org/article/energy-democracy/illinois-community-solar-program/](https://ilsr.org/article/energy-democracy/illinois-community-solar-program/)
+[^16]: ILSR, Illinois Community Solar: [https://ilsr.org/article/energy-democracy/illinois-community-solar-program/](https://ilsr.org/article/energy-democracy/illinois-community-solar-program/)
 
-[^17]:  https://www.nyserda.ny.gov/All-Programs/NY-Sun/Contractors/Value-of-Distributed-Energy-Resources
+[^17]: https://www.nyserda.ny.gov/All-Programs/NY-Sun/Contractors/Value-of-Distributed-Energy-Resources
 
-[^18]:  https://www.nyserda.ny.gov/-/media/Project/Nyserda/Files/Programs/NY-Sun/value-stack-overview.pdf
+[^18]: https://www.nyserda.ny.gov/-/media/Project/Nyserda/Files/Programs/NY-Sun/value-stack-overview.pdf
 
 [^19]: https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10580F9B-0000-CC32-B11D-5AF301DDD7E9}
 
@@ -254,62 +254,62 @@ These are empirical questions, and they deserve empirical answers. The experienc
 
 [^22]: https://www.nyserda.ny.gov/All-Programs/NY-Sun/Contractors/Value-of-Distributed-Energy-Resources/Value-Stack-Resources
 
-[^23]:  ILSR, Maryland Community Solar: [https://ilsr.org/article/energy-democracy/marylands-community-solar-program/](https://ilsr.org/article/energy-democracy/marylands-community-solar-program/)
+[^23]: ILSR, Maryland Community Solar: [https://ilsr.org/article/energy-democracy/marylands-community-solar-program/](https://ilsr.org/article/energy-democracy/marylands-community-solar-program/)
 
-[^24]:  Maryland PSC, Community Solar: [https://psc.maryland.gov/regulated-utilities/electricity/renewable-energy/community-solar-program/](https://psc.maryland.gov/regulated-utilities/electricity/renewable-energy/community-solar-program/)
+[^24]: Maryland PSC, Community Solar: [https://psc.maryland.gov/regulated-utilities/electricity/renewable-energy/community-solar-program/](https://psc.maryland.gov/regulated-utilities/electricity/renewable-energy/community-solar-program/)
 
-[^25]:  Solstice, Maryland Policy: [https://site.solstice.us/policy/maryland](https://site.solstice.us/policy/maryland)
+[^25]: Solstice, Maryland Policy: [https://site.solstice.us/policy/maryland](https://site.solstice.us/policy/maryland)
 
-[^26]:  *Ibid.*
+[^26]: *Ibid.*
 
-[^27]:  ILSR, Maryland Community Solar: [https://ilsr.org/article/energy-democracy/marylands-community-solar-program/](https://ilsr.org/article/energy-democracy/marylands-community-solar-program/)
+[^27]: ILSR, Maryland Community Solar: [https://ilsr.org/article/energy-democracy/marylands-community-solar-program/](https://ilsr.org/article/energy-democracy/marylands-community-solar-program/)
 
-[^28]:  CPUC, Community Solar in California: [https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/community-solar-in-california](https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/community-solar-in-california)
+[^28]: CPUC, Community Solar in California: [https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/community-solar-in-california](https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/community-solar-in-california)
 
-[^29]:  CPUC, CRE Decision: [https://www.cpuc.ca.gov/news-and-updates/all-news/cpuc-expands-existing-community-solar](https://www.cpuc.ca.gov/news-and-updates/all-news/cpuc-expands-existing-community-solar)
+[^29]: CPUC, CRE Decision: [https://www.cpuc.ca.gov/news-and-updates/all-news/cpuc-expands-existing-community-solar](https://www.cpuc.ca.gov/news-and-updates/all-news/cpuc-expands-existing-community-solar)
 
-[^30]:  PV magazine, June 2026: https://www.pv-magazine.com/2026/06/15/california-doubles-down-on-unworkable-community-solar-program/
+[^30]: PV magazine, June 2026: https://www.pv-magazine.com/2026/06/15/california-doubles-down-on-unworkable-community-solar-program/
 
-[^31]:  SEIA statement: [https://seia.org/news/statement-on-cpuc-community-solar-decision/](https://seia.org/news/statement-on-cpuc-community-solar-decision/)
+[^31]: SEIA statement: [https://seia.org/news/statement-on-cpuc-community-solar-decision/](https://seia.org/news/statement-on-cpuc-community-solar-decision/)
 
-[^32]:  CCSA/Renewable Energy World: [https://www.renewableenergyworld.com/solar/community-solar/two-steps-forward-one-step-back-california-cant-seem-to-figure-out-community-solar/](https://www.renewableenergyworld.com/solar/community-solar/two-steps-forward-one-step-back-california-cant-seem-to-figure-out-community-solar/)
+[^32]: CCSA/Renewable Energy World: [https://www.renewableenergyworld.com/solar/community-solar/two-steps-forward-one-step-back-california-cant-seem-to-figure-out-community-solar/](https://www.renewableenergyworld.com/solar/community-solar/two-steps-forward-one-step-back-california-cant-seem-to-figure-out-community-solar/)
 
-[^33]:  Berkeley Goldman Resource Adequacy Primer [https://gspp.berkeley.edu/archived/files/page/Draft\_Resource\_Adequacy\_Primer.pdf](https://gspp.berkeley.edu/archived/files/page/Draft_Resource_Adequacy_Primer.pdf)
+[^33]: Berkeley Goldman Resource Adequacy Primer [https://gspp.berkeley.edu/archived/files/page/Draft\_Resource\_Adequacy\_Primer.pdf](https://gspp.berkeley.edu/archived/files/page/Draft_Resource_Adequacy_Primer.pdf)
 
-[^34]:  Utility Dive, AB 1813: [https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/](https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/)
+[^34]: Utility Dive, AB 1813: [https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/](https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/)
 
-[^35]:  Utility Dive, AB 1813: [https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/](https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/)
+[^35]: Utility Dive, AB 1813: [https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/](https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/)
 
-[^36]:  Solar Power World, June 2026: [https://www.solarpowerworldonline.com/2026/06/cpuc-passes-through-failed-community-solar-program-industry-advocates-say/](https://www.solarpowerworldonline.com/2026/06/cpuc-passes-through-failed-community-solar-program-industry-advocates-say/)
+[^36]: Solar Power World, June 2026: [https://www.solarpowerworldonline.com/2026/06/cpuc-passes-through-failed-community-solar-program-industry-advocates-say/](https://www.solarpowerworldonline.com/2026/06/cpuc-passes-through-failed-community-solar-program-industry-advocates-say/)
 
-[^37]:  CPUC, Community Solar in California: https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/community-solar-in-california
+[^37]: CPUC, Community Solar in California: https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/community-solar-in-california
 
-[^38]:  CPUC, 2024 ACC Documentation: [https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/demand-side-management/acc-models-latest-version/updated-2024-acc-documentation-v1b.pdf](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/demand-side-management/acc-models-latest-version/updated-2024-acc-documentation-v1b.pdf)
+[^38]: CPUC, 2024 ACC Documentation: [https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/demand-side-management/acc-models-latest-version/updated-2024-acc-documentation-v1b.pdf](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/demand-side-management/acc-models-latest-version/updated-2024-acc-documentation-v1b.pdf)
 
-[^39]:  Utility Dive, AB 1813: [https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/](https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/)
+[^39]: Utility Dive, AB 1813: [https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/](https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/)
 
-[^40]:  Utility Dive, AB 1813: [https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/](https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/)
+[^40]: Utility Dive, AB 1813: [https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/](https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/)
 
-[^41]:  CA Alliance for Community Energy, ACC Analysis: [https://cacommunityenergy.org/the-avoided-cost-calculator-and-why-it-matters/](https://cacommunityenergy.org/the-avoided-cost-calculator-and-why-it-matters/)
+[^41]: CA Alliance for Community Energy, ACC Analysis: [https://cacommunityenergy.org/the-avoided-cost-calculator-and-why-it-matters/](https://cacommunityenergy.org/the-avoided-cost-calculator-and-why-it-matters/)
 
-[^42]:  Canary Media, ACC Analysis: [https://www.canarymedia.com/articles/policy-regulation/the-avoided-cost-calculator-the-controversial-metric-at-the-center-of-californias-solar-net-metering-figh](https://www.canarymedia.com/articles/policy-regulation/the-avoided-cost-calculator-the-controversial-metric-at-the-center-of-californias-solar-net-metering-fight)t
+[^42]: Canary Media, ACC Analysis: [https://www.canarymedia.com/articles/policy-regulation/the-avoided-cost-calculator-the-controversial-metric-at-the-center-of-californias-solar-net-metering-figh](https://www.canarymedia.com/articles/policy-regulation/the-avoided-cost-calculator-the-controversial-metric-at-the-center-of-californias-solar-net-metering-fight)t
 
-[^43]:  Utility Dive, AB 1813: [https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/](https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/)
+[^43]: Utility Dive, AB 1813: [https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/](https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/)
 
-[^44]:  Aurora Energy Research/CCSA, Value of Community Solar and Storage in CAISO: [https://communitysolaraccess.org/wp-content/uploads/the-value-of-community-solar-and-storage-in-caiso.pdf](https://communitysolaraccess.org/wp-content/uploads/the-value-of-community-solar-and-storage-in-caiso.pdf)
+[^44]: Aurora Energy Research/CCSA, Value of Community Solar and Storage in CAISO: [https://communitysolaraccess.org/wp-content/uploads/the-value-of-community-solar-and-storage-in-caiso.pdf](https://communitysolaraccess.org/wp-content/uploads/the-value-of-community-solar-and-storage-in-caiso.pdf)
 
-[^45]:  CPUC, Scaling Up and Crossing Bounds: [https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/energy-storage/2024-05-01\_lumen\_scaling-up-and-crossing-bounds-reportfinal.pdf](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/energy-storage/2024-05-01_lumen_scaling-up-and-crossing-bounds-reportfinal.pdf)
+[^45]: CPUC, Scaling Up and Crossing Bounds: [https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/energy-storage/2024-05-01\_lumen\_scaling-up-and-crossing-bounds-reportfinal.pdf](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/energy-storage/2024-05-01_lumen_scaling-up-and-crossing-bounds-reportfinal.pdf)
 
-[^46]:  Coalition for Community Solar Access and Solar Energy Industries Association, *CCSA and SEIA Joint Comments on SB 100 Draft Results Workshop*, Docket No. 23-SB-100, California Energy Commission (March 5, 2026) (TN 268961), [https://efiling.energy.ca.gov/GetDocument.aspx?tn=268961\&DocumentContentId=106154](https://efiling.energy.ca.gov/GetDocument.aspx?tn=268961&DocumentContentId=106154)
+[^46]: Coalition for Community Solar Access and Solar Energy Industries Association, *CCSA and SEIA Joint Comments on SB 100 Draft Results Workshop*, Docket No. 23-SB-100, California Energy Commission (March 5, 2026) (TN 268961), [https://efiling.energy.ca.gov/GetDocument.aspx?tn=268961\&DocumentContentId=106154](https://efiling.energy.ca.gov/GetDocument.aspx?tn=268961&DocumentContentId=106154)
 
 [^47]: https://www.energy.ca.gov/data-reports/energy-almanac/california-electricity-data/california-energy-storage-system-survey
 
-[^48]:  CCSA/Renewable Energy World: [https://www.renewableenergyworld.com/solar/community-solar/two-steps-forward-one-step-back-california-cant-seem-to-figure-out-community-solar/](https://www.renewableenergyworld.com/solar/community-solar/two-steps-forward-one-step-back-california-cant-seem-to-figure-out-community-solar/)
+[^48]: CCSA/Renewable Energy World: [https://www.renewableenergyworld.com/solar/community-solar/two-steps-forward-one-step-back-california-cant-seem-to-figure-out-community-solar/](https://www.renewableenergyworld.com/solar/community-solar/two-steps-forward-one-step-back-california-cant-seem-to-figure-out-community-solar/)
 
-[^49]:  Utility Dive, CA Community Solar Omission: [https://www.utilitydive.com/news/californias-omission-of-community-solar-from-distributed-energy-policies-i/618451/](https://www.utilitydive.com/news/californias-omission-of-community-solar-from-distributed-energy-policies-i/618451/)
+[^49]: Utility Dive, CA Community Solar Omission: [https://www.utilitydive.com/news/californias-omission-of-community-solar-from-distributed-energy-policies-i/618451/](https://www.utilitydive.com/news/californias-omission-of-community-solar-from-distributed-energy-policies-i/618451/)
 
-[^50]:  Clean Coalition, ACC Comments: [https://clean-coalition.org/regulatory-filings/](https://clean-coalition.org/regulatory-filings/)
+[^50]: Clean Coalition, ACC Comments: [https://clean-coalition.org/regulatory-filings/](https://clean-coalition.org/regulatory-filings/)
 
-[^51]:  Aurora Energy Research/CCSA: https://communitysolaraccess.org/wp-content/uploads/the-value-of-community-solar-and-storage-in-caiso.pdf
+[^51]: Aurora Energy Research/CCSA: https://communitysolaraccess.org/wp-content/uploads/the-value-of-community-solar-and-storage-in-caiso.pdf
 
-[^52]:  Utility Dive, AB 1813: [https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/](https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/)
+[^52]: Utility Dive, AB 1813: [https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/](https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/)
