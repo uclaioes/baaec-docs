@@ -242,17 +242,17 @@ These are empirical questions, and they deserve empirical answers. The experienc
 
 [^16]: ILSR, Illinois Community Solar: [https://ilsr.org/article/energy-democracy/illinois-community-solar-program/](https://ilsr.org/article/energy-democracy/illinois-community-solar-program/)
 
-[^17]: https://www.nyserda.ny.gov/All-Programs/NY-Sun/Contractors/Value-of-Distributed-Energy-Resources
+[^17]: <https://www.nyserda.ny.gov/All-Programs/NY-Sun/Contractors/Value-of-Distributed-Energy-Resources
 
-[^18]: https://www.nyserda.ny.gov/-/media/Project/Nyserda/Files/Programs/NY-Sun/value-stack-overview.pdf
+[^18]: <https://www.nyserda.ny.gov/-/media/Project/Nyserda/Files/Programs/NY-Sun/value-stack-overview.pdf
 
-[^19]: https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10580F9B-0000-CC32-B11D-5AF301DDD7E9}
+[^19]: <https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={10580F9B-0000-CC32-B11D-5AF301DDD7E9}
 
-[^20]: https://www.nyserda.ny.gov/All-Programs/NY-Sun/Contractors/Dashboards-and-incentives/Community-Adder
+[^20]: <https://www.nyserda.ny.gov/All-Programs/NY-Sun/Contractors/Dashboards-and-incentives/Community-Adder
 
-[^21]: https://www.ascendanalytics.com/blog/vder-new-yorks-valuable-distributed-energy-generation-opportunity
+[^21]: <https://www.ascendanalytics.com/blog/vder-new-yorks-valuable-distributed-energy-generation-opportunity
 
-[^22]: https://www.nyserda.ny.gov/All-Programs/NY-Sun/Contractors/Value-of-Distributed-Energy-Resources/Value-Stack-Resources
+[^22]: <https://www.nyserda.ny.gov/All-Programs/NY-Sun/Contractors/Value-of-Distributed-Energy-Resources/Value-Stack-Resources
 
 [^23]: ILSR, Maryland Community Solar: [https://ilsr.org/article/energy-democracy/marylands-community-solar-program/](https://ilsr.org/article/energy-democracy/marylands-community-solar-program/)
 
@@ -282,7 +282,7 @@ These are empirical questions, and they deserve empirical answers. The experienc
 
 [^36]: Solar Power World, June 2026: [https://www.solarpowerworldonline.com/2026/06/cpuc-passes-through-failed-community-solar-program-industry-advocates-say/](https://www.solarpowerworldonline.com/2026/06/cpuc-passes-through-failed-community-solar-program-industry-advocates-say/)
 
-[^37]: CPUC, Community Solar in California: https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/community-solar-in-california
+[^37]: CPUC, Community Solar in California: <https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/community-solar-in-california>
 
 [^38]: CPUC, 2024 ACC Documentation: [https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/demand-side-management/acc-models-latest-version/updated-2024-acc-documentation-v1b.pdf](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/demand-side-management/acc-models-latest-version/updated-2024-acc-documentation-v1b.pdf)
 
@@ -302,7 +302,7 @@ These are empirical questions, and they deserve empirical answers. The experienc
 
 [^46]: Coalition for Community Solar Access and Solar Energy Industries Association, *CCSA and SEIA Joint Comments on SB 100 Draft Results Workshop*, Docket No. 23-SB-100, California Energy Commission (March 5, 2026) (TN 268961), [https://efiling.energy.ca.gov/GetDocument.aspx?tn=268961\&DocumentContentId=106154](https://efiling.energy.ca.gov/GetDocument.aspx?tn=268961&DocumentContentId=106154)
 
-[^47]: https://www.energy.ca.gov/data-reports/energy-almanac/california-electricity-data/california-energy-storage-system-survey
+[^47]: <https://www.energy.ca.gov/data-reports/energy-almanac/california-electricity-data/california-energy-storage-system-survey>
 
 [^48]: CCSA/Renewable Energy World: [https://www.renewableenergyworld.com/solar/community-solar/two-steps-forward-one-step-back-california-cant-seem-to-figure-out-community-solar/](https://www.renewableenergyworld.com/solar/community-solar/two-steps-forward-one-step-back-california-cant-seem-to-figure-out-community-solar/)
 
@@ -310,6 +310,6 @@ These are empirical questions, and they deserve empirical answers. The experienc
 
 [^50]: Clean Coalition, ACC Comments: [https://clean-coalition.org/regulatory-filings/](https://clean-coalition.org/regulatory-filings/)
 
-[^51]: Aurora Energy Research/CCSA: https://communitysolaraccess.org/wp-content/uploads/the-value-of-community-solar-and-storage-in-caiso.pdf
+[^51]: Aurora Energy Research/CCSA: <https://communitysolaraccess.org/wp-content/uploads/the-value-of-community-solar-and-storage-in-caiso.pdf>
 
 [^52]: Utility Dive, AB 1813: [https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/](https://www.utilitydive.com/news/cpuc-final-decision-community-solar-program/820234/)
