@@ -4,6 +4,11 @@ title: 'Playing Catch Up: Valuation, Resource Classification, and the Future of 
 short_title: Community Solar Memo
 ---
 
+**Authors:**
+
+Robert Cudd><br>
+Sid Shah</sup>
+
 ## Executive Summary
 
 Community solar and storage is an approach to building renewable energy infrastructure which has gained considerable traction in the U.S. over the last 5-10 years. Driven by the need to shift towards a more renewable generation mix and the fact that large-scale renewable generation projects can take decades to reach implementation, state governments have encouraged private developers, investors, and supportive localities to construct smaller-scale solar generation and storage systems closer to where power is consumed. Several states, including New York, Illinois, and Maryland have developed community solar and storage programs that provide utility customers with low-cost, renewable power by developing community solar programs that facilitate the siting, construction, and profitable operation of such resources.
