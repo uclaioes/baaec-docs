@@ -1,5 +1,6 @@
 ---
 ---
+
 # **Playing Catch Up: Valuation, Resource Classification, and the Future of Community Solar in California**
 
 # **Executive Summary**
