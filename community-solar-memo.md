@@ -208,6 +208,8 @@ These are empirical questions, and they deserve empirical answers. The experienc
 * *CPUC, Scaling Up and Crossing Bounds (Energy Storage Scaling Study, 2024): https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/energy-storage/2024-05-01\_lumen\_scaling-up-and-crossing-bounds-reportfinal.pdf*
 * *Clean Coalition, ACC Comments and Regulatory Filings: https://clean-coalition.org/regulatory-filings/*
 
+## Footnotes
+
 [^1]:  Stanton, NRRI 19-01: [https://pubs.naruc.org/pub/A107102C-92E5-776D-4114-9148841DE66B](https://pubs.naruc.org/pub/A107102C-92E5-776D-4114-9148841DE66B)
 
 [^2]:  *Ibid.*
