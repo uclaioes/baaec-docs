@@ -2,9 +2,9 @@
 layout: page
 ---
 
-# **Playing Catch Up: Valuation, Resource Classification, and the Future of Community Solar in California**
+# Playing Catch Up: Valuation, Resource Classification, and the Future of Community Solar in California
 
-# **Executive Summary**
+# Executive Summary
 
 Community solar and storage is an approach to building renewable energy infrastructure which has gained considerable traction in the U.S. over the last 5-10 years. Driven by the need to shift towards a more renewable generation mix and the fact that large-scale renewable generation projects can take decades to reach implementation, state governments have encouraged private developers, investors, and supportive localities to construct smaller-scale solar generation and storage systems closer to where power is consumed. Several states, including New York, Illinois, and Maryland have developed community solar and storage programs that provide utility customers with low-cost, renewable power by developing community solar programs that facilitate the siting, construction, and profitable operation of such resources.
 
@@ -12,21 +12,21 @@ A vitally important aspect of efforts to develop more distributed solar generati
 
 Based on our analysis, we believe AB 1813 would help address the valuation issues that have slowed the development of distributed generation and storage in California, and help break the  impasse between regulators, some load-serving entities, and the broad coalition of groups supportive of community solar.
 
-# **Introduction: What is Community Solar and Storage Worth?**
+# Introduction: What is Community Solar and Storage Worth?
 
 This policy memorandum addresses the classification and valuation of community solar and storage. Nationally, community solar and storage is an increasingly popular and successful template for the development of distributed generation and storage resources interconnected to lower-voltage distribution networks. Valued appropriately, community solar and storage can expand access to renewably-generated power for utility customers ineligible for rooftop solar and storage, decrease energy costs for all ratepayers by reducing the need to invest in distribution infrastructure, and spur the growth of domestic cleantech industries and their workforces.
 
 But realizing the potential benefits of community solar and storage in California’s regulated electricity market depends on changing the way the state values distributed energy resources (DERs). The subsequent sections explain how community solar programs work, how they structure collaboration between utilities, developers, and communities, and identify specific features of California’s current energy resource classification and valuation practices that are contradictory and inconsistent. Like all other forms of energy resource development in a regulated market setting, community solar and storage development in California must involve the careful design of programs to ensure that costs, benefits, and risks are realistically and responsibly addressed. For that reason, we also provide examples of how other states have answered questions about what community solar and storage is worth and how its development may be properly incented.
 
-**Community Solar and Storage: Development, Finance, and Compensation**
+Community Solar and Storage: Development, Finance, and Compensation
 
-# **I. Regulated Electricity Markets and Distributed Generation Compensation**
+# I. Regulated Electricity Markets and Distributed Generation Compensation
 
 In a regulated electricity market, the compensation structures for distributed generation must be carefully calibrated by state public regulatory commissions because generation outside the utility's rate base may erode the revenue the utility collects to recover its fixed infrastructure costs if it is valued improperly. However, distributed generation and storage resources can provide forms of value to utilities and their ratepayers that other kinds of generation resources do not. To encourage the development of distributed generation while avoiding cost shift, utilities and regulators commonly offer sell rates below full retail value, or by adding a fixed monthly service charge to recover the utility's costs for serving distributed generation owners.[^1]
 
 The challenge for regulators is that distributing resources like rooftop solar and community solar and storage do provide some economic benefits to non-participating customers in the form of avoided utility cost for energy, capacity, and distribution system investments. While compensating rooftop solar at full retail rates does result in cost shifts, a well designed payment structure can reward both participating customers and non-participating customers. California's NEM evolution illustrates how this plays out in practice: as solar costs declined and participation scaled, the CPUC moved from NEM 1.0 (retail-rate compensation for all exports) to NEM 2.0 (with non-bypassable charges to address cost-shift concerns) and ultimately to NEM 3.0, which attempts to align export prices with actual avoided system costs.[^2].
 
-# **II. The Community Solar Development Process**
+# II. The Community Solar Development Process
 
 A community solar project moves through several distinct phases before a single kilowatt-hour reaches a subscriber's bill. The development process typically runs from site origination through site control, site survey and initial design, zoning and permitting, utility interconnection, state program enrollment, and final design, procurement, and construction–a timeline that can stretch from roughly 12 to 24 months in which interconnection alone often represents 50 to 60 percent of total project cost and time.[^3] Most community solar programs also include a capacity cap (typically less than 5 MW) and require that community solar projects interconnect to the distribution grid.[^4]
 
@@ -34,7 +34,7 @@ Subscriber acquisition runs concurrently with late-stage development, and many s
 
 This creates a distinctive financial pressure point: developers must build a subscriber base before they can guarantee revenue, often relying on community-based organizations and third-party subscriber acquisition firms whose costs add to overall project budgets. Consumer protection requirements at the state level, including mandatory savings guarantees for low-income subscribers, cancellation windows, and prohibitions on deceptive marketing, add further compliance complexity to the acquisition process.
 
-# **III. The Community Solar Capital Stack**
+# III. The Community Solar Capital Stack
 
 The capital stack financing a community solar project is typically layered across three interdependent sources, each with distinct risk profiles, return expectations, and relationships to the federal tax code. Tax equity, structured most commonly as a partnership flip, accounts for roughly one-third to two-thirds of total project financing.[^6]
 
@@ -45,11 +45,11 @@ The remaining capital is predominantly project debt, often structured as back-le
 
 The capital stack for community solar serving low-income or moderate-income subscribers may also include layered public subsidy (to accelerate deployment or drive bill savings for low-income residents) including state green bank financing, grant funding through programs like Solar for All (where available), and concessionary debt provided through community development financial institutions.
 
-# **IV. How Community Solar and Storage Are Valued: A State-by-State Comparison**
+# IV. How Community Solar and Storage Are Valued: A State-by-State Comparison
 
 The central question in community solar compensation runs deeper than how much to pay: it concerns what the payment is actually supposed to represent. States that have moved beyond simple net metering have developed meaningfully different answers to this question, ranging from frameworks that treat distributed generation much like wholesale resources to multi-attribute value stacks that attempt to price in both energy and non-energy services. The contrasts between Illinois, New York, Maryland, and California illustrate both the range of regulatory ambition and the degree to which compensation structure determines whether a workable market for community solar and storage exists at all.
 
-**A. Illinois: Long-Term REC Contracts Under Illinois Shines**
+A. Illinois: Long-Term REC Contracts Under Illinois Shines
 
 Illinois takes a distinctive approach to community solar compensation through its Illinois Shines program, authorized under the Future Energy Jobs Act (FEJA) in 2016 and substantially expanded under the 2021 Climate and Equitable Jobs Act (CEJA).[^12] Rather than compensating only subscribers through a tariff applied to metered output, Illinois Shines structures compensation around several revenue streams: 1\) developer revenue around long-term Renewable Energy Credit (REC) contracts purchased by the Illinois Power Agency (IPA) under a 15-year horizon; 2\) an inverter rebate which allows the utility to treat the inverter as a regulated asset and provide grid value; and 3\) the bill credit revenue, which flows to subscribers and is tied to the their retail electricity rate.
 
@@ -63,7 +63,7 @@ From a developer financing perspective, the REC contract structure has proven hi
 
 The subscriber-side savings guarantee, typically 10 to 20 percent below retail, is structured into subscription agreements rather than mandated at a fixed statewide rate, giving developers flexibility to set pricing while maintaining the economic proposition for subscribers.
 
-**B. New York: The VDER Value Stack**
+B. New York: The VDER Value Stack
 
 New York's Value of Distributed Energy Resources (VDER) framework, established by the Public Service Commission in 2017 as part of the broader Reforming the Energy Vision (REV) initiative, is the most architecturally ambitious distributed energy compensation structure in the country.[^17]
 
@@ -79,7 +79,7 @@ NYSERDA maintains both a Solar Value Stack Calculator and a Stand-alone Storage 
 
 Maryland has since adopted New York's net crediting billing model following a February 2025 PSC order, signaling that the VDER billing architecture is increasingly seen as a national template.
 
-**C. Maryland: Retail-Rate Bill Credits and Equity-First Program Design**
+C. Maryland: Retail-Rate Bill Credits and Equity-First Program Design
 
 Maryland's community solar program, administered by the Public Service Commission under authority granted by the Community Solar Energy Generating Systems Pilot Program and subsequently expanded through permanent program legislation, offers one of the most subscriber-favorable compensation structures in the country. Subscriber bill credits are required to be valued the same as a reduction in metered kilowatt-hours, meaning compensation runs at the full retail rate rather than at an avoided cost or wholesale rate.[^23]
 
@@ -91,7 +91,7 @@ The billing mechanism has also recently aligned more closely with New York's net
 
 Unlike in Illinois, subscriber organizations in Maryland earn and retain all rights to renewable energy certificates, creating an additional revenue stream that can meaningfully affect project economics.[^27]
 
-**D. California: Wholesale Classification, Regulatory Failure, and the Limits of Avoided-Cost-Only Frameworks**
+D. California: Wholesale Classification, Regulatory Failure, and the Limits of Avoided-Cost-Only Frameworks
 
 California's struggle with community solar is one of the most consequential regulatory failures in the U.S. clean energy transition, and its roots lie in a persistent classification problem. The issue is that front-of-the-meter (FTM) community solar projects in California (meaning projects that interconnect on the utility side of the meter rather than behind a customer's service point), have been treated by the California Public Utilities Commission (CPUC) as wholesale generation resources, rather than distributed retail assets–assets whose value (at least in other states) encompasses avoided distribution and transmission costs, capacity contributions, and locational grid benefits. The CPUC’s classification of community solar projects as wholesale generation resources (and their opposition to any reclassification) carries serious structural consequences: it is the reason California has failed to build a workable community solar market despite its reputation as the first among equals in the national effort to build renewable energy infrastructure[^28]
 
@@ -101,11 +101,11 @@ Other proposals to change how community solar projects are classified (and thus 
 
 The legislative response to this impasse between the CPUC and solar industry in California is [Assembly Bill 1813](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1813) (Ward), which would require the CPUC to establish a mechanism to determine whether community renewable energy generators are load-modifying resources and to calculate avoided costs using the commission's own methods for calculating the full set of benefits of eligible customer-generator distributed energy resources. AB 1813 passed out of the Assembly with bipartisan support from the Committee on Utilities and Energy in May 2026 and was under consideration by the Senate Committee on Appropriations at time of writing.[^35] Whether or not AB 1813 passes, California's community solar situation illustrates in sharp relief what is at stake in compensation structure debates: a state that leads the nation in installed solar capacity, with 35,000 MW of installed solar (providing nearly 30 percent of state electricity generation), and that has created the most ambitious storage deployment targets in the country, targeting 52,000 MW of storage by 2045, has nonetheless been unable to build a workable FTM community solar market. However, community solar and storage development is at a standstill because its existing regulatory framework prices those assets as if their only value is what a generic wholesale generator would earn in the California Independent System Operator’s spot market.[^36],[^37]
 
-# **V. Why California May Be Missing the Mark on Properly Evaluating These Resources**
+# V. Why California May Be Missing the Mark on Properly Evaluating These Resources
 
 The CPUC's repeated refusal to compensate community solar and storage at anything above a wholesale avoided cost floor reflects a set of methodological and institutional commitments that, taken together, systematically exclude the categories of value that make distributed solar and storage meaningfully different from generic wholesale generation. Three specific gaps in California's current valuation framework deserve closer attention by decision-makers: the non-application of the state's own Avoided Cost Calculator to FTM community solar; the categorical denial of Resource Adequacy credit eligibility; and the failure to recognize locational distribution and transmission value. Each represents a decision to ignore documented grid benefits of community scale solar and storage resources \- benefits that other states have successfully incorporated into their community solar and storage programs.
 
-**A. The Avoided Cost Calculator Is Not Being Applied to the Resources It Was Built to Measure**
+A. The Avoided Cost Calculator Is Not Being Applied to the Resources It Was Built to Measure
 
 The CPUC's Avoided Cost Calculator (ACC) was purpose built to measure the value that distributed energy resources generate when interconnected to California’s electrical grid. The ACC incorporates production simulation modeling to estimate the energy, capacity, ancillary services, and emissions benefits produced when distributed energy resources generate electricity, allowing for comparison between such resources and other alternatives for procurement.[^38]
 
@@ -117,7 +117,7 @@ The California Alliance for Community Energy has similarly documented that the A
 
 In fact, New York's VDER framework was designed to address this very set of distributed resource valuation challenges. VDER’s authors created the Demand Reduction Value (DRV) and the Locational System Relief Value (LSRV) as distinct compensation components aimed at compensating projects for their distribution value. DRV is compensated to all projects on the VDER tariff, reflecting the Commission’s determination that areas without near term distribution upgrades nonetheless have an avoided cost distribution value. LSRV is aimed at areas with acute, higher cost needs where injections from DERs can offset these higher costs. Between these two components, VDER compensates projects for their long-run avoided distribution cost value while providing additional incentive to locate projects in areas with the most acute need. The reasoning applied by regulators in New York contrasts sharply with the arguments against including locational value California. Rather than developing a framework for calculating said value, the CPUC has held that uncertainty about the locational value of distributed resources is a reason not to compensate projects for location-specific relief value.
 
-**B. Denial of Resource Adequacy Credit Eligibility Ignores Documented Capacity Value**
+B. Denial of Resource Adequacy Credit Eligibility Ignores Documented Capacity Value
 
 The CPUC's determination that community solar projects do not qualify as load-modifying resources, and therefore cannot generate Resource Adequacy (RA) value for utilities and community choice aggregators, is a significant valuation error with considerable financial consequences. RA is a core mechanism through which California procures the generation capacity needed to ensure peak or net-peak reliably. When a resource qualifies for RA, its owner can sell capacity to load-serving entities at prices that reflect the full scarcity value of generation during peak and net-peak periods. Denying that credit to community solar projects treats them as being incapable of contributing to peak reliability, even when storage-paired projects are specifically designed and dispatched to do so.[^43] One clear way to provide this RA value is by treating resources as “load modifying”, which has the effect of reducing the overall amount of capacity a utility or CCA must purchase. This is already done for rooftop solar and some virtual power plant (VPP) programs.
 
@@ -131,7 +131,7 @@ Regarding interconnection, properly sited FTM projects that achieve load-modifie
 
 Aurora Energy Research modeling found that deploying approximately 5.4 GW of distributed solar-plus-storage across CAISO Local Reliability Areas could ease pressure on utility-scale build rates, lower in-state emissions from gas generation, and reduce system costs by approximately $6.5 billion over twenty years through avoided energy, capacity, and transmission costs. The CCSA/SEIA letter also notes that the Joint Agencies had previously committed to evaluating a High-DER scenario in the SB 100 study planning process, including in the October 2023 Analytical Framework Workshop and the February 2024 Inputs and Assumptions Workshop, but that scenario was not included in the February 2026 draft results.[^46]
 
-**C. The Structural Contradiction: A State That Builds Grid-Edge Resources While Refusing to Value Them**
+C. The Structural Contradiction: A State That Builds Grid-Edge Resources While Refusing to Value Them
 
 California's position produces a structural contradiction that is difficult to rationalize on purely technical grounds. The state leads the nation in utility-scale storage deployment and has set a target of 52,000 MW of storage by 2045.[^47] It has invested heavily in grid modeling, integrated resource planning, and demand-side management programs. It has developed the Avoided Cost Calculator specifically to price distributed resources. And yet when front-of-the-meter community solar and storage projects are evaluated for compensation, the CPUC applies none of these tools and instead defaults to the ReMAT wholesale tariff, a mechanism originally designed for small-scale renewable procurements under PURPA, rather than for valuing co-located solar and storage assets capable of providing peak capacity, distribution deferral, and locational congestion relief simultaneously.[^48] The Utility Dive commentary on the omission of community solar from California's distributed energy policies framed this contradiction as a missed opportunity to enable distributed solar to support the grid through careful siting and sizing of resources. The authors of the same Utility Dive article noted that the CPUC’s current approach sacrifices the economic, resiliency, and grid support benefits that the state and utility ratepayers could realize from properly designed community solar deployments.[^49]
 
@@ -139,7 +139,7 @@ The Clean Coalition, in comments to the CPUC on the 2026 ACC guidelines, has spe
 
 Taken together, the three valuation failures described in this section \- non-application of the ACC, categorical RA ineligibility, and zero locational distribution and transmission value recognition \- compound upon one another. A project that cannot earn RA credits cannot cover its capacity costs. A project valued at a system-wide average avoided cost rather than a locational one cannot recover the value associated with its siting decisions. A project excluded from the ACC framework cannot demonstrate through the commission's own tools that it avoids the costs the commission says it does not avoid. The result is a self-sealing regulatory logic that makes it structurally impossible for community solar and storage to demonstrate their value within the frameworks the CPUC controls, while the commission simultaneously declines to apply the frameworks that would reveal it.[^51], [^52]
 
-# **VI. Comparative Summary: State Compensation Structures**
+# VI. Comparative Summary: State Compensation Structures
 
 The four states examined in this analysis illustrate a spectrum of regulatory philosophy on distributed energy compensation. California's wholesale-only framework has produced no meaningful community solar market. New York's VDER value stack and Maryland's retail-rate bill credit structure have created active markets with demonstrated project financing. Illinois occupies a middle position, using long-term REC contracts to provide developer revenue certainty while passing subscriber savings through separately.
 
@@ -158,7 +158,7 @@ What the California case reveals, examined alongside the comparative state evide
 
 These are empirical questions, and they deserve empirical answers. The experience of peer states, and the independent modeling conducted by researchers and energy consultants examining the California grid, suggest that community solar and storage may provide benefits to ratepayers and to the grid that the current framework does not capture. Whether and to what degree that holds in California's specific regulatory and infrastructural context is a question that is answerable with the methods available. Rigorous, publicly available analysis \- using the state's own valuation methodologies for full range of services distributed resources can provide \- could answer to a suitable degree of precision. That analysis, wherever it leads, could provide a more durable foundation for California's community solar policy than the practices and programs that exist currently.
 
-# **Key Sources**
+# Key Sources
 
 **Net Metering and Compensation Policy**
 ·       *Tom Stanton, Review of State Net Energy Metering and Successor Rate Designs, NRRI Report No. 19-01 (NARUC/NRRI, 2019): https://pubs.naruc.org/pub/A107102C-92E5-776D-4114-9148841DE66B*
