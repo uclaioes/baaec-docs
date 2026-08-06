@@ -300,7 +300,7 @@ These are empirical questions, and they deserve empirical answers. The experienc
 
 [^45]: CPUC, Scaling Up and Crossing Bounds: [https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/energy-storage/2024-05-01\_lumen\_scaling-up-and-crossing-bounds-reportfinal.pdf](https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/energy-storage/2024-05-01_lumen_scaling-up-and-crossing-bounds-reportfinal.pdf)
 
-[^46]: Coalition for Community Solar Access and Solar Energy Industries Association, *CCSA and SEIA Joint Comments on SB 100 Draft Results Workshop*, Docket No. 23-SB-100, California Energy Commission (March 5, 2026) (TN 268961), [https://efiling.energy.ca.gov/GetDocument.aspx?tn=268961\&DocumentContentId=106154](https://efiling.energy.ca.gov/GetDocument.aspx?tn=268961&DocumentContentId=106154)
+[^46]: Coalition for Community Solar Access and Solar Energy Industries Association, *CCSA and SEIA Joint Comments on SB 100 Draft Results Workshop*, Docket No. 23-SB-100, California Energy Commission (March 5, 2026) (TN 268961): [https://efiling.energy.ca.gov/GetDocument.aspx?tn=268961\&DocumentContentId=106154](https://efiling.energy.ca.gov/GetDocument.aspx?tn=268961&DocumentContentId=106154)
 
 [^47]: <https://www.energy.ca.gov/data-reports/energy-almanac/california-electricity-data/california-energy-storage-system-survey>
 
