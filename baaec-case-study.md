@@ -1,3 +1,9 @@
+---
+layout: page
+title: BAAEC Case Study
+short_title: BAAEC Case Study
+---
+
 Contents
 [Executive Summary	6](#executive-summary)
 
