@@ -884,19 +884,19 @@ The Energy Coalition and UCLA CCSC developed several scenarios for expanding the
 
 **Scenario 1:** Contiguous Qualifying DAC Tracts (16 Tracts, Total Eligible Population: 61,366)
 
-![][image10]
+![]({% link /assets/images/baaec-case-study/ch-2-appendix-scenario1.png %})
 
 **Scenario 2:** Multiple Contiguous Qualifying DAC Tracts within 5-mi. Buffer (Green) of Original Area (133 Tracts, Total Eligible Population: 597,932)
 
-![][image11]
+![]({% link /assets/images/baaec-case-study/ch-2-appendix-scenario2.png %})
 
 **Scenario 3:** Qualifying DAC Tracts Contained Within 1-mile Buffer (Blue) of Original Territory (12 Tracts, Total Eligible Population: 50,799)
 
-![][image12]
+![]({% link /assets/images/baaec-case-study/ch-2-appendix-scenario3.png %})
 
 **Scenario 4:** Qualifying DAC Tracts Intersecting 1 mi Buffer (Blue) of Original Territory (36 Tracts, Total Eligible Population: 158,156)
 
-![][image13]
+![]({% link /assets/images/baaec-case-study/ch-2-appendix-scenario4.png %})
 
 All expansion scenarios were prepared using SB 535 feature layers and population data from the US Census. TEC, GRID Alternatives, and Day One selected **Scenario 4** (Figure 2.3.2.2) and all subsequent maps of the “expanded Advanced Homes area” correspond to the geography shown in scenario 4\.
 
@@ -1018,7 +1018,7 @@ By the summer of 2021 TEC, Grid, and Day One had produced more detailed plans fo
 
 At this point in the project, DAC-SASH rooftop solar and preparatory electrical work (paid for through a mixture of state cap-and-trade and BAAEC grant funds) would leave each of the participant’s homes ready for the subsequent installation of battery storage by Sonnen (Figure 3.2.1.2). Grid Alternatives, leveraging its third-party ownership model with the private solar installer Sunrun, would complete each of the rooftop solar installations and transfer ownership of each array to Sunrun, who would capture the tax equity credits associated with the systems and (in exchange) cover the operations & maintenance costs of participants’ rooftop solar arrays.[^75] Some unspecified time after the installation of the DAC-SASH solar array, Sonnen and an installation contractor would revisit the participants’ homes, design a battery system for each (based on household load history and the capacity of rooftop solar arrays), install the batteries, and begin operating them in markets for power export (CAISO wholesale) or utility-made markets for Grid services. Figure 3.2.1.2 illustrates the financial and contractual relationships between each of the project partners that were (or would be) involved in the implementation of Advanced Homes as of 2020-2021.
 
-![A screenshot of a computerAI-generated content may be incorrect.][image14]
+![A screenshot of a computer. AI-generated content may be incorrect.]({% link /assets/images/baaec-case-study/fig-3.2.1.2.png %})
 
 #### *Figure 3.2.1.2 – Draft Utility Offtake Model for Advanced Homes (2020-2021).*
 
@@ -1034,13 +1034,15 @@ By Q1 of 2022, the re-introduction of Advanced Homes to project area residents w
 
 The first few Advanced Homes participants enrolled in the project helped the core partners to begin developing a workflow for comprehensive home retrofits that would include free rooftop solar, battery storage, and major appliance electrification offerings. However, without a battery partner, it was not yet possible to plan the battery installation process completely. Figure 3.2.2.1 illustrates the installation process as early 2022:
 
-![][image15]
+![]({% link /assets/images/baaec-case-study/fig-3.2.2.1.png %})
 
 #### *Figure 3.2.2.1 \- Draft Process Flow for BAAEC Advanced Homes cr. Q2 2022*
 
 The DAC-SASH Program – made available to BAAEC through partnership with Grid Alternatives, was of enormous assistance to the Advanced Homes project. Created by the CPUC in 2018 as a low-income version of the Single family Affordable Solar Home (SASH). DAC-SASH, with a budget of \~$10 million per year, offers subsidized rooftop solar to people meeting CARE/FERA income requirements and living in census tracts within the top quartile of the CalEnviroScreen. In 2017, the CPUC designated Grid Alternatives as the “state-wide implementer” of the DAC-SASH program, allowing the organization to draw on Cap-and-Trade funds to finance the installation of no-cost rooftop solar for low-income Californians. The figures below, taken from E3’s 2023 evaluation of DAC-SASH, show a comparison between SASH and DAC-SASH, and the solar system ownership models developed by Grid Alternatives, private-sector partners, and the CPUC:
 
-![A diagram of a variety of optionsAI-generated content may be incorrect.][image16]![A table with text on itAI-generated content may be incorrect.][image17]
+![A diagram of a variety of optionsAI-generated content may be incorrect.]({% link /assets/images/baaec-case-study/fig-3.2.2.2a.png %})
+
+![A table with text on itAI-generated content may be incorrect.]({% link /assets/images/baaec-case-study/fig-3.2.2.2b.png %})
 
 #### *Figure 3.2.2.2 – DAC-SASH vs. SASH Programs & Implementation Models for DAC-SASH (from 2023 Evergreen Economics DAC-SASH Evaluation Study[^77]).*
 
@@ -1060,7 +1062,7 @@ Low-income retrofits came at a premium, and many homeowners knew this. Many home
 
 Meanwhile, homes themselves were presenting problems. Confirming Grid’s initial assessment that approximately 70-80% of low-income homeowners would need new roofs, many of the people screened for Advanced Homes were disqualified because their roofs could not safely support the weight of a solar array. Home inspections conducted by Grid for BAAEC revealed just how difficult it would be to reach the implementation goal of 50 homes by 2025 without additional funding to repair or replace structurally deficient roofs. To address this problem, TEC, encouraged by Day One and Grid Alternatives, requested a scope change and a budget amendment from the CEC. To counter the problems with DAC-SASH’s eligibility requirements, TEC would ask the CEC to enlarge the project area to include neighboring census tracts, and to allow TEC to reallocate grant funds for roofers.
 
-![A map of a cityAI-generated content may be incorrect.][image18]
+![A map of a cityAI-generated content may be incorrect.]({% link /assets/images/baaec-case-study/fig-3.2.3.1.jpg %})
 
 #### *Figure 3.2.3.1 – Advanced Homes Project Area Expansion, Q3 2022\.*
 
@@ -1072,7 +1074,7 @@ Between Q3-Q4 2022, Advanced Homes also expanded its offerings to include two fr
 
 The summer of 2022 saw the Advanced Homes project re-grouping and expanding, but the addition of re-roofing, electrical professional services, and electrical appliances also complicated the sequencing of the overall retrofit process. Homeowners now could expect to be visited by Grid Alternatives, contractors installing electrification measures, and the municipal inspectors who had to permit the repair of roofs and the installation of solar arrays. To manage the complexity of Advanced Homes, the core partners met weekly to discuss finding new participants, advancing the ones they had, and planning the “warm hand-off” to Swell Energy, who was expected to sign a subcontract agreement with TEC in the coming months. In anticipation of partnership with Swell Energy, TEC and Grid discussed how the up-front cost of battery installations under SGIP could be financed through a bridge loan from a third party, the Golden State Finance Authority.[^79] Most of the time, however, immediate concerns kept them busy during check-in meetings. By August of 2022 Grid’s recommended roofer had been approved by the CEC, and the project began to revisit homeowners with offers to pay for roof remediation. During this time, it also became clear that low-income homeowners often needed main service panel upgrades to safely accommodate solar and storage into home electrical systems. TEC favored the installation of a smart panel offered by SPAN, which would capture “circuit level” consumption and production data, and possibly enable Swell Energy to remotely access the Advanced Homes’ Tesla batteries. Grid was opposed to the use of the more expensive smart panel, arguing that they increased the cost of contract labor and were unnecessary because Swell could already connect independently to the Advanced Homes batteries.[^80] Using CRM database software, cloud-based spreadsheets, digital documents, and GIS software, the core partners also devoted time during their meetings to reviewing each lead in the BAAEC install pipeline and orchestrating communication between the homeowners, project staff, and external contractors.
 
-![][image19]
+![]({% link /assets/images/baaec-case-study/fig-3.2.3.2.png %})
 
 #### *Figure 3.2.3.2 – Draft Advanced Homes Process Flow cr. Q3-Q4 2022*
 
@@ -1135,7 +1137,7 @@ Parallel meetings between TEC and Swell Energy concerned how to include the comp
 
 Each Advanced Home battery system would be designed by Swell according to historical household load data collected by Grid and TEC. Grid’s single-line diagrams for home service panels and rooftop solar systems, permit applications, and photographs of each job would be transferred to Swell by TEC, obviating the need for another round of home inspections. Swell’s batteries would be mounted to each home in compliance with municipal electrical and fire code, and Swell would handle scheduling and payment with Quality Conservation Services (QCS) for physical installation. Quality Conservation Services, who performed the pilot home installation, would install the batteries, and connect the systems to main service panels (in some instances, these panels had also been installed by QCS). By the end of Q2 2023, Swell Energy was attending regular zoom meetings and had met Grid Alternatives and Day One staff virtually.
 
-![][image21]
+![]({% link /assets/images/baaec-case-study/fig-3.4.1.3.png %})
 
 #### *Figure 3.4.1.3 – Advanced Homes Process Flow, cr. Q2 2023*
 
@@ -1145,8 +1147,7 @@ Over the summer of 2023, Grid also had trouble reporting the kinds of project co
 
 In June of 2023, Swell Energy began a series of meetings with TEC to review the leads that were ready to be “transferred” for battery installs, and to organize the exchange documentation and the tracking of each battery install. Luckily, this process was simplified by the fact that Swell Energy could rely on Grid Alternative’s documentation, obviating the need for an additional home inspection. To engage Swell, TEC and Grid would transfer electrical plans, address and contact information, photographs, historical consumption, and load calculation data produced by the core partners to the company, who would then add the Advanced Homes installs to Swell’s existing design, engineering, and construction queue. Based on this information, Swell Energy would design a battery system for the home, procure the necessary hardware, and then contract with Quality Conservation Services for installation (Swell – TEC Check-in Meetings, Q2-Q3 2023). During early meetings TEC also discussed with Swell Energy the system of payment “milestones” it had worked out with Perl Street. Swell Energy and TEC also attended to the particulars of transferring documentation between the actors involved in battery installs, and how money would move between the lender, TEC, Swell Energy, and the project’s approved third-party contractors. Swell Energy staff, led by a project manager and supported by outreach coordinators, worked to set up Salesforce integration with TEC, and agreed to a schedule of regular meetings with TEC outreach staff about leads that were ready to receive batteries, and “to work through case by case challenges” with the core project partners (Interview w/ TEC Project Manager, August 2023). By August of 2023, TEC and Grid Alternatives had referred 9 leads with completed DAC-SASH retrofits and/or electrification measures (HPWH, induction stove) to Swell Energy for battery installation. Figure 3.3.1.5 shows the sequencing of Swell’s battery installation process:
 
-![A diagram of a systemAI-generated content may be incorrect.][image22]
-
+![A diagram of a system. AI-generated content may be incorrect.]({% link /assets/images/baaec-case-study/fig-3.3.1.4.png %})
 
 #### *Figure 3.3.1.4 – Process Flow for Swell Battery Installation w/ Battery Bridge Loan from Urban US Capital.*
 
@@ -1190,7 +1191,7 @@ Swell’s bankruptcy was extremely inconvenient for Advanced Homes and for TEC s
 
 On September 13th of 2024, TEC, Grid Alternatives, and Day One held a celebration of the project completion at the Jeff Seymour Family Center in the city of El Monte. Participating homeowners, their families, and staff from the core partners attended the event, along with representatives from other organizations. The occasion was to mark the end of the first iteration of the Advanced Homes scope, to celebrate the accomplishments of the project, and to announce an expanded “Advanced Homes 2.0” program that involved additional amenities to participants. The outreach staff from TEC, who presented Advanced Homes 2.0 also addressed the elephant in the room; Swell had indeed gone out of business, but Haven Energy was taking over their retrofits and would complete them; they had no need to worry. Work would proceed as it had before, and the outreach staff from each organization were going to walk them through the process. The speakers also described the new offerings that would be part of Advanced Homes 2.0, and mentioned that there was a $300 referral bonus for anyone who recruited their friends or neighbors to the project. As outreach staff from TEC explained, the Advanced Homes offering had expanded in version 2.0 to include electric heat-pump space heaters/ coolers, an electric clothes dryer, and, for those interested in the BAAEC Car Share Pilot (Chapter 8), potentially a Level 2 home car charger and EV rental. Advanced Homes 2.0 would offer these amenities as a complete package to new leads, and Advanced Homes 1.0 participants would also be eligible for new amenities (car chargers, electric dryers, HPSCs) (Figure 3.3.3.1). After the presentation, staff, homeowners, and other attendees began to have dinner (provided by a taco cart vendor), converse, and to watch the induction stove demonstration taking place on the electric range installed in the center by BAAEC.
 
-![A poster with a list of electrical appliancesAI-generated content may be incorrect.][image23]
+![A poster with a list of electrical appliances. AI-generated content may be incorrect.]({% link /assets/images/baaec-case-study/fig-3.4.3.1.jpg %})
 
 #### *Figure 3.4.3.1 – Bassett Avocado Heights Advanced Energy Community – Advanced Homes 2.0 Flyer (Sept 2024\)*
 
@@ -1225,7 +1226,7 @@ Walker and Devine-Wright analyzed a set of community renewable energy projects u
 
 To help sort through the diversity of meanings Walker & Devine-Wright documented in their initial study, the researchers developed the *process* vs. *outcome* framework for analyzing energy communities. In their framework, *process* refers to the doing of the project. Process concerns the actions of the most influential actors, the distribution of decision-making power within the project, as well as what and who are involved in its assembly (who it is *by*). *Outcome* refers to the sociospatial distribution of effects (positive or negative) of community renewable energy systems, as well as what was accomplished or learned during its course (who (or what) it is *for*). Figure 3.4.1 shows a visual representation of the framework:
 
-![Diagram of a diagram of a problemAI-generated content may be incorrect.][image24]
+![Diagram of a diagram of a problem. AI-generated content may be incorrect.][image24]
 
 #### *Figure 3.5.1 – Process vs. Outcome for Community Renewable Energy Projects (from Walker & Devine-Wright, 2008\)*
 
@@ -1546,7 +1547,7 @@ With the exit of the Church, TEC and Pivot also needed to find a local organizat
 
 With a dearth of suitable sites in the project area, Pivot Energy began looking for ones within 5 miles of the BAAEC project boundary. Acting on his own initiative, the project manager at Pivot responsible for BAAEC’s scopes sought assistance from the company’s commercial development team. The project manager asked the commercial team if they had any business relationships with firms operating in or near the BAAEC project area, and if any of their contacts would be willing to host a community solar system like BAAEC’s (rooftop, FTM, \<2 MW). The project manager’s query produced a “warm introduction” to Extra Space Storage. As it happened, Extra Space Storage, with whom Pivot Energy had done business previously, identified one of their locations (consisting of two buildings) near the neighboring city of Pico Rivera as a suitable community solar site. Extra Space Storage also provided Pivot with a letter expressing its intention to participate as site host in BAAEC Community Solar. Constrained by time and a lack of other options, TEC and Pivot committed to the site to submit a bid to the CPA’s RFO. Figure 4.2.2.1 shows a map of the BAAEC DAC census tracts, the location of the Church and Extra Space Storage Sites, and the 5-mile radius defining the area from which CPA customers would be virtually allocated to the system:
 
-![A map of a cityAI-generated content may be incorrect.][image25]
+![A map of a city. AI-generated content may be incorrect.]({% link /assets/images/baaec-case-study/fig-4.2.2.1.png %})
 
 #### *Figure 4.2.2.1 – BAAEC Community Solar Eligibility Map.*
 
@@ -1562,7 +1563,7 @@ Pivot bid in an offtake price for BAAEC Community Solar based on its internal fi
 
 CPA’s shortlisting of BAAEC Community set the PPA price[^128] for the project for 15 years and with no escalation. The official shortlisting also led to meetings between the CPA, Pivot, and TEC to discuss the merits and challenges of BAAEC Community Solar. These were welcome developments for BAAEC Community Solar.[^129] In Q2 of 2021, the CPA declared that it was pleased with the project’s application even though BAAEC Community Solar was located outside of CPA territory. Representatives from the CPA explained that although this ran counter to the CPA’s desire to locate more distributed PV generation within CPA’s service territory, it would not pose a problem for the project going forward. During Q2 of 2021, Pivot’s executive, legal, and engineering personnel became more involved in the project, and TEC began to rely fully on Pivot’s technical and legal expertise to advance BAAEC Community Solar.
 
-![A diagram of a projectDescription automatically generated][image26]
+![A diagram of a projectDescription automatically generated]({% link /assets/images/baaec-case-study/fig-4.2.2.2.png %})
 
 #### *Figure 4.2.2.2 – Process Flow and Requirements for Construction & Interconnection of BAAEC Community Solar*
 
@@ -1586,7 +1587,7 @@ Despite the problems encountered in Q3 of 2021, TEC, Pivot Energy, and the CPA r
 During this time of waiting, Pivot Energy, TEC, and UCLA conducted a search for alternate sites for BAAEC Community Solar using UCLA’s site selection and suitability map. Though the Extra Space Storage sites identified by Pivot Energy remained the primary focus of project efforts, TEC thought it wise to continue looking for alternative sites in case new problems with the Extra Space sites emerged. But by the end of Q2 2022, all alternative sites and site hosts identified by TEC had proven unsuitable or were uninterested in the project, and TEC and Pivot became fully committed to pursuing implementation at the Extra Space Storage sites for lack of other options. The failure to find alternative sites was not for lack of trying. TEC met with a set of local stakeholders (businesses, cities, public institutional property owners) who were initially receptive to the idea of BAAEC Community Solar, but none of these engagements went beyond initial conversations. Figure 4.2.3.1 shows TEC’s filtering of potentially suitable sites within 5 miles of the project census tracts shown in Figure 4.2.2.1.
 
 
-![A chart of a company's siteAI-generated content may be incorrect.][image27]
+![A chart of a company's siteAI-generated content may be incorrect.]({% link /assets/images/baaec-case-study/fig-4.2.3.1.png %})
 
 #### *Figure 4.2.3.1 – Filtering of Alternative Sites for BAAEC Community Solar*
 
@@ -1642,7 +1643,7 @@ By Q3 of 2024, it became clear that distribution interconnection and bankruptcy 
 
 During Q3 – Q4 of 2024, BAAEC Community Solar reached ‘mechanical completion’ in advance of the two final milestones to commercial operation: finishing CAISO’s NRI process, and the completion of municipal (county) fire inspection. CAISO’s NRI process concluded in January of 2025, and a fire permit for BAAEC Community Solar was issued by the LA County Fire Department in early February 2025\. BAAEC Community Solar commenced commercial operation on the 28th of February, 2025\.
 
-![A diagram of a projectAI-generated content may be incorrect.][image28]
+![A diagram of a projectAI-generated content may be incorrect.]({% link /assets/images/baaec-case-study/fig-4.3.2.1.png %})
 
 #### *Figure 4.3.2.1 – Implementation Timeline for BAAEC Community Solar. Colors indicate Fast-Track Approval (Yellow), CAISO New Resource Implementation (Purple), and Construction of BAAEC Community Solar (Blue).*
 
@@ -1816,9 +1817,9 @@ LA County Internal Services Division (ISD) is the general services department of
 
 Originally, the BAAEC Resiliency Center and Community Solar systems were to be located on the property of the Evergreen Baptist Church. The Church’s property is large, fenced, campus with multiple buildings and a large parking lot located near the center of the original BAAEC project area (Figure 5.2.1.1).
 
-![A map of a cityDescription automatically generated][image29]
+![A map of a city. Description automatically generated]({% link /assets/images/baaec-case-study/fig-5.2.1.1a.png %})
 
-![Aerial view of a parking lot and a buildingDescription automatically generated][image30]
+![Aerial view of a parking lot and a building. Description automatically generated]({% link /assets/images/baaec-case-study/fig-5.2.1.1b.png %})
 
 #### *Figure 5.2.1.1 – Original Project Boundaries and Location of Evergreen Baptist Church; Satellite image of the site.*
 
@@ -1838,7 +1839,7 @@ Between Q2-Q3 2021, TEC and Pivot Energy had a series of meetings with represent
 
 TEC first approached BUSD about the Resilience Center in Q2 of 2021\. Initial meetings generated alignment between TEC and BUSD regarding the Resilience Center. According to TEC, BUSD representatives felt that the Resilience Center would be a positive development for the district and found the no-cost nature of participation attractive. To begin negotiating with the school in more concrete terms, TEC and Pivot created preliminary designs and cost models for solar and storage systems on three school properties (Van Wig and Sunkist Elementary Schools, Florence Flanner School) (Figure 5.2.2.1). These models and a draft PPA were shared with BUSD members and counsel for their review.
 
-![][image31]
+![]({% link /assets/images/baaec-case-study/fig-5.2.2.1.png %})
 
 #### *Figure 5.2.2.1 – Context Map of Church Site (circle), BUSD School Properties (building icons)*
 
@@ -1848,7 +1849,9 @@ Despite a warm first impression, evidence of significant financial savings, and 
 
 BUSD’s rejection of BAAEC’s Resilience Center meant that efforts to find a suitable site and willing site host converged on two LA County Parks – San Angelo and Bassett Parks – located in the original project area (Figure 5.2.2.2).
 
-![][image32]*Figure 5.2.2.2 \- Locations of San Angelo and Bassett Parks (pins) and Evergreen Baptist Church (circle).*
+![]({% link /assets/images/baaec-case-study/fig-5.2.2.2.png %})
+
+#### *Figure 5.2.2.2 \- Locations of San Angelo and Bassett Parks (pins) and Evergreen Baptist Church (circle).*
 
 During Q2-Q4 2021, TEC and Pivot approached LA County Parks and Internal Services Division staff about participating in the Resilience Center project. Initial meetings over the summer of that year progressed towards more definite plans in Q3-Q4. LA County Parks, the first department contacted by TEC and Pivot, was aligned with the purpose and mission of the project. LA County Parks believed that the project could represent a new model for emergency services provision and a stepping-stone to the construction and deployment of distributed renewable energy systems at other parks. County Parks staff also liked the fact that the Center would reduce the host park’s energy bills and felt that the project was in keeping with the County’s commitment to the electrification and decarbonization of their operations (Interview w/ Parks Section Head of Sustainability Planning, 2024). Discussions about the purpose of the project created alignment between the County and BAAEC partner organizations, and conversations eventually broached the topics of how to seek approval from the County Board of Supervisors, how the organizations involved could maximize their chances of approval, and how design and construction would proceed.
 
@@ -1863,9 +1866,11 @@ TEC and Pivot Energy’s work securing the cooperation of LA County Parks and IS
 Early in 2022, Pivot’s inspection of Bassett Park's main building revealed that the building’s roof did not have sufficient load bearing capacity and would have to be replaced or upgraded to support rooftop panels. Given the expense of replacing Bassett Park’s roof, and the costs of (and possible public objection to) tree removal, the project members settled on a carport-only design that did not include tree removal as a compromise (Figure 5.2.3.1). Pivot determined that BAACE’s Resilience Center was to consist of a \~103 kW AC solar array connected to a 125 kWh/ 469 kWh battery (sized to provide 4 hours of full building load). Pivot emphasized that although the park’s field lights were not included in the load calculations for the building-integrated Resilience Center, the battery would be able to offset the cost of lighting the field during the evening and peak demand hours.
 
 
-![][image33]
+![]({% link /assets/images/baaec-case-study/fig-5.3.2.1b.png %})
 
-![][image34]*Figure 5.2.3.1 \- Pivot’s Rendering of BAAEC Resilience Center’s Carport Arrays; Initial Timeline for Implementation.*
+![]({% link /assets/images/baaec-case-study/fig-5.2.3.1b.png %})
+
+#### *Figure 5.2.3.1 \- Pivot’s Rendering of BAAEC Resilience Center’s Carport Arrays; Initial Timeline for Implementation.*
 
 Although Parks, ISD, TEC, and Pivot Energy were aligned with respect to the design and potential benefits of the project, there remained differences of opinion regarding the placement of the system’s switchgear. The placement of the switchgear, a cell network-enabled switch for isolating the Resilience Center from the connecting distribution circuit, became a point of contention between Parks, TEC, and Pivot Energy. To minimize the cost of construction, Pivot had located the switchgear next to a wall of the Recreation Center facing the playground. LA County Parks, aware that people typically rested or sat against this wall to watch their children on the playground, wanted the switchgear moved to a parking lot median and surrounded by traffic bollards. Pivot and TEC, aware of the additional cost incurred by moving the switchgear and its conduits, and sensitive to any cost increases, proposed leaving it where it was initially sited and suggested a mural as a beautification measure for the cabinet. These suggestions did not assuage the concerns of Parks’ staff or change their opinions regarding the placement of the switchgear. Though the switchgear issue remained outstanding at the end of 2022, designs for the project continued to mature. Pivot Energy and TEC felt confident enough at this stage to reach out to a battery vendor (BayWar.e.) and purchase a battery in advance to avoid COVID-related procurement delays and hedge against future price increases.
 
