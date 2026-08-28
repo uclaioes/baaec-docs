@@ -330,13 +330,9 @@ The BAAEC Project Case Study is accompanied by the Evaluation, Measurement, and 
 
 As mentioned above, the Bassett-Avocado Heights Advanced Energy Community began with AEC Phase I planning grant awarded to a team led by UCLA’s California Center for Sustainable Communities. In 2014-2015, CCSC prepared the BAAEC Phase I proposal, recruiting The Energy Coalition, community-based outreach and education organizations, and local government partners in accordance with the CEC’s proposal requirements. LA County and the Office of County Supervisor Hilda Solis assisted CCSC and The Energy Coalition in identifying the communities of Bassett and Avocado Heights as potentially suitable for the project, and put both organizations in touch with a community-based organization (DayOne) working on public health and other issues in the area. Together, CCSC, TEC, and DayOne determined that Bassett-Avocado Heights met the criteria to qualify for the AEC grant proposal under the disadvantaged community category, and that the community could potentially benefit from the installation of DER and residential electrification measures. Project area boundaries were based on the CalEnviroScreen 3.0 scores of the census tracts encompassing the community. Figure 1.1.0 shows the location and extent of the BAAEC Phase I project area.
 
-![test][fig-1.1.0a]
+![]({% link /assets/images/baaec-case-study/fig-1.1.0a.jpg %})
 
-![test][fig-1.1.0b]
-
-[fig-1.1.0a]: {{ 'fig-1.1.0a.jpg' | prepend: '/assets/images/baaec-case-study/' | relative_url }}
-
-[fig-1.1.0b]: {% link /assets/images/baaec-case-study/fig-1.1.0b.jpg %}
+![]({% link /assets/images/baaec-case-study/fig-1.1.0b.jpg %})
 
 ### Figure 1.1.0 – (Top) Context map showing BAAEC project area. (Bottom) Location of BAAEC Project Area Census Tracts
 
