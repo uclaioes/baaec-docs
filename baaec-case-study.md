@@ -555,13 +555,13 @@ Finally, eligibility criteria for Community Solar and Advanced Homes were establ
 
 For Advanced Homes, residents would have to reside within the BAAEC project census tracts, as well as meet CARE/FERA requirements and DAC-SASH building condition and permitting requirements to participate (Fig 2.2.1.1.).
 
-![][image3]
+![]({% link /assets/images/baaec-case-study/fig-2.2.1.1.jpg %})
 
 #### *Figure 2.2.1.1 – Original BAAEC Project Area (2021)*
 
 For Community Solar, potential participants had to live within the intersection of three distinct administrative geographies (Figure 2.2.1.2). Potential Community Solar enrollees needed to live within 5 miles of the BAAEC Community Solar system, within CPA territory, and within the BAAEC project area.[^33] As Figure 2.2.1.2 shows, locating the Community Solar system anywhere within the BAAEC census tracts would have yielded a larger eligible area for PowerShare enrollment, and a less complicated intersection of eligibility geographies. However, the choice of the original community solar site host, the Evergreen Baptist Church, to leave the project in 2020 meant that the BAAEC Community Solar system had to be moved to the rooftops of a personal storage business outside of the original project area \- several miles to the South and West (see Ch. 4). This change complicated the planning of OEE for Community Solar and made it more difficult to verify the geographic eligibility of residents interested in BAAEC Community Solar. In response, the Clean Power Alliance took on the responsibility of allocating PowerShare enrollees to the BAAEC Community Solar System. Using their own customer data, the CPA said it would allocate geographically eligible PowerShare enrollees to the BAAEC system once the system was operational. The division of labor between CPA and Active SGV meant that Active SGV could concentrate on enrolling as many residents from the project area as possible in CPA’s PowerShare program. In turn, the CPA would eventually allocate residents in the Community Solar eligibility area to the BAAEC Community Solar system in keeping with their Community Solar – Green Tariff solicitation for community solar systems (Ch. 4).
 
-![][image4]
+![]({% link /assets/images/baaec-case-study/fig-2.2.1.2.jpg %})
 
 #### *Figure 2.2.1.2 – BAAEC Community Solar Eligibility Area*
 
@@ -600,7 +600,7 @@ TEC also acknowledged that the lack of detail on the Advanced Homes scope was a 
 
 After the relaxation of public health restrictions, and the cooperative resolution of the OEE scope challenges mentioned above, Day One and Active SGV began planning and hosting events in and near the BAAEC project area. During 2021, Day One and Active SGV made 18 appearances at local parks, schools, and vaccination drives (Fig. 1), canvassed door-to-door in the project area 8 times, and texted and called thousands of potentially eligible homeowners and renters in the BAAEC census tracts.
 
-![][image5]
+![]({% link /assets/images/baaec-case-study/fig-2.3.1.1.jpg %})
 
 #### *Figure 2.3.1.1 \- BAAEC Outreach Events for 2021*
 
@@ -614,7 +614,7 @@ The first six months of BAAEC OEE also saw changes to how the CBOs introduced an
 
 The first two quarters of 2022 were the most active period for BAAEC OEE. Day One and Active SGV held more events in 2022 than in any other year of the project. Both CBOs made regular in-person appearances at community events, as well as movie nights and resource fairs at LA County Parks, and created new marketing materials and social media content. The CBOs, as well as TEC, also cultivated closer relationships with public and civic organizations in the project area. Important community partners for 2022 OEE included the administrative staffs of local high and middle schools, the 1st District County Supervisor’s Office, Los Angeles County Parks & Recreation, and the Clean Air Coalition. Many outreach events were held as part of other events occurring at schools (grad nights, PTA meetings) or at regularly scheduled LA County Parks events (resource fairs, movie screenings, holiday events). Figure 2.3.2.1 shows the locations of in-person outreach events held or attended by Day One and Active SGV during the first half of 2022\.
 
-![][image6]
+![]({% link /assets/images/baaec-case-study/fig-2.3.2.1.jpg %})
 
 #### *Figure 2.3.2.1 – BAAEC Outreach Events (Q1-Q4 2022\)*
 
@@ -634,7 +634,7 @@ GRID suggested several strategies for finding pools of eligible residents, such 
 
 In March of 2022, based on GRID’s experience with DAC-SASH enrollment in LA County, and under the pressure of the project timetable, TEC requested a scope change from the CEC, expanding the extent of the BAAEC Advanced Homes project area to include the neighboring DAC census tracts within a 1-mile radius (Figure 2.3.2.2).[^43] In the scope change request to the CEC, TEC cited GRID’s DAC-SASH’s program limitations and attrition rate for LA County as significant barriers to implementation. GRID’s identification of multiple, potentially eligible participants outside of the Advanced Homes census tracts was provided as one of the justifications for the expansion of the Advanced Homes eligibility area. The BAAEC Community Advisory Committee was also presented with the Advanced Homes expansion scenario and approved of the plan to expand the project’s definition of the “community” for the purposes of the scope. The Advanced Homes eligibility area expansion was approved by the CEC in April, 2022\. The expansion increased the size of the Advanced Homes eligibility area from 4 to 34 census tracts, and included tracts in neighboring cities (La Puente, El Monte, Hacienda Heights, Baldwin Park, West Covina, and the City of Industry).
 
-![][image7]
+![]({% link /assets/images/baaec-case-study/fig-2.3.2.2.jpg %})
 
 #### *Figure 2.3.2.2 – BAAEC Advanced Homes Original and Expanded Boundaries*
 
@@ -683,7 +683,7 @@ During the second half of 2022 it became apparent that in order to reach 50 home
 
 By the end of August 2022, CPA had confirmed that Active SGV had surpassed their initial enrollment target of 250 participants and could cease outreach activities for PowerShare and BAAEC Community Solar.[^52] Figure 2.3.1.2 shows a map of PowerShare enrollments for the Bassett-Avocado Heights area. Enrollments in PowerShare were clustered around the original BAAEC census tracts, potentially reflecting Active SGV’s focus on the project area for in-person events, community solar canvassing, and direct mail campaigns. In addition to completing enrollment for BAAEC community solar, CPA stated that Active SGV’s community solar OEE had contributed significantly to meeting PowerShare’s 6,500 customer enrollment cap (\~400 counted by CPA).
 
-![][image8]
+![]({% link /assets/images/baaec-case-study/fig-2.3.3.1.jpg %})
 
 #### *Figure 2.3.3.1 – CPA PowerShare Enrollments for BAAEC and neighboring DAC Census Tracts (Q3 2022\)*
 
@@ -737,7 +737,7 @@ By April 2023, BAAEC OEE team (TEC, Day One, and GRID Alternatives) felt that th
 
 In total, staff involved in BAAEC Advanced Homes and Community Solar had contact with thousands of residents within and outside of the project area during the OEE period (Q1 2021 – Q3 2023).
 
-![][image9]
+![]({% link /assets/images/baaec-case-study/fig-2.4.1.png %})
 
 #### *Figure 2.4.1 – Scales of Participation for Advanced Homes and Community Solar.*
 
@@ -1117,7 +1117,7 @@ During Q1-Q2 2023, TEC, Grid, and Day One had continued the work of developing l
 
 Their enthusiasm was also driven by another major project success; the installation of the first set of Tesla Powerwall batteries in one of the participants’ homes in April of 2023\. This was the first completed retrofit and was tangible proof that the process developed by the core partners could be “scaled up” to serve more homeowners, or potentially “copy and pasted” to other grant offerings and programs (Meeting with TEC, Day One, and Grid Alternatives Staff, April 2023\).[^88] Figure 3.3.1.2 shows the monetary flows between the entities involved in Advanced Homes as of Q2 2023:
 
-![][image20]
+![]({% link /assets/images/baaec-case-study/fig-2.4.1.2.png %})
 
 #### *Figure 3.4.1.2 – BAAEC Advanced Homes Implementation Model*
 
