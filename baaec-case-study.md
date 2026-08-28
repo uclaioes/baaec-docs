@@ -4,7 +4,7 @@ title: BAAEC Case Study
 short_title: BAAEC Case Study
 ---
 
-Contents
+<!-- Contents
 [Executive Summary	6](#executive-summary)
 
 [How to Read This Study:	7](#how-to-read-this-study:)
@@ -251,7 +251,7 @@ Contents
 
 [**Prosumer Network**	323](#prosumer-network)
 
-[**General Conclusions**	326](#general-conclusions)
+[**General Conclusions**	326](#general-conclusions) -->
 
 # Executive Summary
 
