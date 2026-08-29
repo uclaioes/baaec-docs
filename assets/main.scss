@@ -3,3 +3,14 @@
 ---
 
 @import "minima";
+
+/**
+ * Minima styling naturally only supports compact nested lists.
+ * Fix sublist margin to support space between all list items in nested lists.
+ */
+li {
+    > p ~ ul,
+    > p ~ ol {
+        margin-bottom: $spacing-unit * 0.5;
+    }
+  }
