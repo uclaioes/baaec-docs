@@ -1214,7 +1214,7 @@ Walker and Devine-Wright analyzed a set of community renewable energy projects u
 
 To help sort through the diversity of meanings Walker & Devine-Wright documented in their initial study, the researchers developed the *process* vs. *outcome* framework for analyzing energy communities. In their framework, *process* refers to the doing of the project. Process concerns the actions of the most influential actors, the distribution of decision-making power within the project, as well as what and who are involved in its assembly (who it is *by*). *Outcome* refers to the sociospatial distribution of effects (positive or negative) of community renewable energy systems, as well as what was accomplished or learned during its course (who (or what) it is *for*). Figure 3.4.1 shows a visual representation of the framework:
 
-![Diagram of a diagram of a problem. AI-generated content may be incorrect.][image24]
+![Diagram of a diagram of a problem. AI-generated content may be incorrect.]({% link /assets/images/baaec-case-study/fig-3.5.1.png %})
 
 #### *Figure 3.5.1 – Process vs. Outcome for Community Renewable Energy Projects (from Walker & Devine-Wright, 2008\)*
 
