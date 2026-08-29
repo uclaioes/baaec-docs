@@ -423,13 +423,13 @@ The primary object of the BAAEC project is to figure out what it takes to implem
 
 The BAAEC Project Goals are as follows:
 
-1) Create a Zero Net Electric (ZNElec) community by providing local renewable electricity generation and battery storage to offset the annual electricity consumption of mostly low-income participants within a DAC.
-2) Generate more efficient, resilient and lower cost energy within the community.
-3) Enable DAC residents to access cost-effective renewable generation.
-4) Demonstrate that locally produced renewable energy reduces costs for the utility grid.
-5) Reduce GHG emissions and improve air quality in alignment with state and local goals.
-6) Promote social equity, environmental justice and a more livable community.
-7) Demonstrate a successful model of integrated decentralized energy systems that can be replicated by other DACs.
+1. Create a Zero Net Electric (ZNElec) community by providing local renewable electricity generation and battery storage to offset the annual electricity consumption of mostly low-income participants within a DAC.
+2. Generate more efficient, resilient and lower cost energy within the community.
+3. Enable DAC residents to access cost-effective renewable generation.
+4. Demonstrate that locally produced renewable energy reduces costs for the utility grid.
+5. Reduce GHG emissions and improve air quality in alignment with state and local goals.
+6. Promote social equity, environmental justice and a more livable community.
+7. Demonstrate a successful model of integrated decentralized energy systems that can be replicated by other DACs.
 
 The BAAEC Case Study recounts the history of the BAAEC project’s scopes and evaluates the extent to which these goals were realized. Special attention is given to the extent to which the project’s scopes produced replicable and scalable models for the financing and adoption of DER systems and residential decarbonization measures in disadvantaged communities across the state. The BAAEC Evaluation, Measurement, and Verification (EM\&V) report provides quantitative analyses of BAAEC’s systems relative to goals 1, 2, 4, and 5\.
 
