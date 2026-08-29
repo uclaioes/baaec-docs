@@ -4,6 +4,16 @@ title: BAAEC Case Study
 short_title: BAAEC Case Study
 ---
 
+**Primary Author:**
+
+Robert Cudd – UCLA CCSC
+
+**Factual Review, Conceptualization, and Additional Contributions:**
+
+Genaro Bugarin - TEC<br>
+Felicia Federico - TEC<br>
+Marc Costa - TEC
+
 <!-- Contents
 [Executive Summary	6](#executive-summary)
 
